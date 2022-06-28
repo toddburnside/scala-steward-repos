@@ -1,0 +1,13 @@
+- zio/zio-protoquill
+- plokhotnyuk/jsoniter-scala
+- plokhotnyuk/rtree2d
+- plokhotnyuk/fast-string-interpolator
+- VirtusLab/scala-yaml
+- VirtusLab/scala-cli
+- VirtusLab/scala-packager
+- VirtusLab/ide-probe
+- scala-cli/scala-js-cli
+- scala-cli/metabrowse
+- scala-cli/scala-cli-signing
+- scala-cli/scalafmt-native-image
+- MarcinAman/test-repo
