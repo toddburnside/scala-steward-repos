@@ -43,3 +43,5 @@
 - lightbend/mima
 - lightbend/scala-logging
 - lightbend/scala-sculpt
+- scoverage/sbt-scoverage
+- scoverage/scalac-scoverage-plugin
