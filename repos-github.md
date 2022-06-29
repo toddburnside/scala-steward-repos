@@ -323,6 +323,7 @@
 - dimitarg/bb-webhook
 - dimitarg/weaver-test-extra
 - disneystreaming/smithy4s
+- disneystreaming/smithy4s.g8
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
 - djspiewak/base.g8
