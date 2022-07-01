@@ -1,4 +1,3 @@
-- fthomas/scala-steward-test
 - io.github.nafg/slick-migration-api
 - morgaroth/gitlab4s
 - tyoras/cards

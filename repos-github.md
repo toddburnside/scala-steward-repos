@@ -487,7 +487,6 @@
 - fthomas/base.g8
 - fthomas/fs2-cron
 - fthomas/refined
-- fthomas/scalafix-test
 - fthomas/singleton-ops
 - fthomas/status-page
 - fullfacing/akkaMonixSttpBackend
@@ -1243,8 +1242,6 @@
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
 - scala-steward-org/scala-steward
-- scala-steward-org/test-repo-2
-- scala-steward-org/test-repo-2:test-branch
 - scala-tessella/ring-seq
 - scala-tsi/scala-tsi
 - scala-ts/scala-ts
