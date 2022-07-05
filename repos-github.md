@@ -819,6 +819,7 @@
 - majk-p/identicon4s
 - makiftutuncu/e
 - manocha-aman/wind-alerts
+- MarcinAman/test-repo
 - martinpallmann/gchat
 - matsluni/aws-spi-akka-http
 - mauriciojost/main4ino-server
@@ -1238,6 +1239,10 @@
 - scalapb/zio-grpc
 - scala-bones/bones
 - scala-bones/scatonic-ideal
+- scala-cli/metabrowse
+- scala-cli/scalafmt-native-image
+- scala-cli/scala-cli-signing
+- scala-cli/scala-js-cli
 - scala-graph/scala-graph
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
@@ -1659,6 +1664,7 @@
 - zio/zio-prelude
 - zio/zio-process
 - zio/zio-project-seed.g8
+- zio/zio-protoquill
 - zio/zio-query
 - zio/zio-redis
 - zio/zio-s3
