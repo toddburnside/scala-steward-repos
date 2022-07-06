@@ -669,8 +669,6 @@
 - lemastero/scala_typeclassopedia
 - lemastero/Triglav
 - lemonlabsuk/scala-uri
-- lenguyenthanh/catsphores
-- lenguyenthanh/steve
 - leobenkel/Laeta
 - leobenkel/Soteria
 - leobenkel/umlclassdiagram
