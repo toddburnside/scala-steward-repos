@@ -492,7 +492,6 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
-- grokking-vietnam/grox
 - guardian/content-authorisation-common
 - guardian/fulfilment-lookup
 - guardian/invoicing-api
