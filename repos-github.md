@@ -1422,6 +1422,7 @@
 - vigoo/prox
 - vigoo/scalafxml
 - vigoo/simpp
+- VirtusLab/akka-serialization-helper
 - VirtusLab/ide-probe
 - VirtusLab/scala-cli
 - VirtusLab/scala-packager
