@@ -571,7 +571,6 @@
 - japgolly/test-state
 - japgolly/univeq
 - jatcwang/scalafix-named-params
-- jbwheatley/pact4s
 - jcouyang/dhall-generic
 - jcouyang/jujiu
 - jcouyang/zhuyu
