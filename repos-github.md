@@ -213,7 +213,13 @@
 - commercetools/sphere-scala-libs
 - compstak/circe-debezium
 - compstak/KafkaStreams4s
+- com-lihaoyi/castor
+- com-lihaoyi/fansi
+- com-lihaoyi/geny
 - com-lihaoyi/mill
+- com-lihaoyi/requests-scala
+- com-lihaoyi/scalatags
+- com-lihaoyi/utest
 - concrete-cp/concrete
 - concrete-cp/cspom
 - cornerman/chameleon
