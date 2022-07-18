@@ -428,6 +428,7 @@
 - finch/finch-oauth2
 - findify/flink-adt
 - findify/flink-scala-api
+- finos/morphir-scala
 - firstbirdtech/akka-persistence-query-view
 - firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
