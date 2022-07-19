@@ -789,6 +789,7 @@
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
 - NickBurkard/aws-cdk-scala
+- nightscape/scala-node-red
 - niklasf/lila-openingexplorer
 - niqdev/caliban-extras
 - niqdev/kafka-scala-examples
