@@ -690,9 +690,6 @@
 - lsug/lsug-website
 - ltbs/uniform-scala
 - lucidd/rpm4s
-- L-space/L-space
-- L-space/L-space-NS
-- L-space/Types
 - m2-oss/calypso
 - macro-peg/macro_peg
 - magott/scravatar
