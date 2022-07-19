@@ -1370,7 +1370,6 @@
 - uptane/ota-tuf
 - uptane/treehub
 - user-signal/fs2-mqtt
-- usommerl/graalnative4s
 - vadimbakaev/scala-fast-start
 - valentinHenry/blaireau
 - valskalla/odin
