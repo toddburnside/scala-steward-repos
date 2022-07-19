@@ -1372,7 +1372,6 @@
 - trace4cats/trace4cats-zipkin
 - transcendent-ai-labs/DynaML
 - TranslatorSRI/ontology-kp
-- travisbrown/catbird
 - travisbrown/dhallj
 - travisbrown/iteratee
 - travisbrown/iteratee-twitter
