@@ -1466,6 +1466,7 @@
 - yurique/embedded-files
 - yurique/embedded-files-macro
 - zainab-ali/sbt-sammy
+- zeal18/zio-mongodb
 - zengularity/benji
 - zengularity/query-monad
 - zio/caliban-deriving
