@@ -1187,8 +1187,12 @@
 - Slakah/fastparse-parsers
 - Slakah/slakah.github.io
 - Slakah/uritemplate4s
+- slick/hello-slick
 - slick/slick
 - slick/slick-codegen-example
+- slick/slick-multidb
+- slick/slick-plainsql
+- slick/slick-testkit-example
 - sloshy/fs2-es
 - snowplow-incubator/cla-bot
 - snowplow-incubator/snowplow-indicative-relay
