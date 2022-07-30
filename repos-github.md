@@ -682,7 +682,6 @@
 - lolgab/mill-mima
 - lomigmegard/akka-http-cors
 - lorandszakacs/enclosure
-- lorandszakacs/sprout
 - LPTK/simple-sub
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
