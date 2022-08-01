@@ -17,6 +17,7 @@
 - 100km/stk
 - aaronp/franz
 - abdolence/slack-morphism
+- adzerk/apso
 - afsalthaj/safe-string-interpolation
 - agourlay/cornichon
 - agourlay/json-2-csv
@@ -1379,7 +1380,6 @@
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
 - vder/taskforce
-- velocidi/apso
 - vertical-blank/scala-sql-formatter
 - vigoo/clipp
 - vigoo/desert
