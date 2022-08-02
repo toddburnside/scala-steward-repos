@@ -217,9 +217,12 @@
 - com-lihaoyi/castor
 - com-lihaoyi/fansi
 - com-lihaoyi/geny
+- com-lihaoyi/mainargs
 - com-lihaoyi/mill
+- com-lihayoi/os-lib
 - com-lihaoyi/requests-scala
 - com-lihaoyi/scalatags
+- com-lihaoyi/upickle
 - com-lihaoyi/utest
 - concrete-cp/concrete
 - concrete-cp/cspom
