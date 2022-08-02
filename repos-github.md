@@ -1203,7 +1203,6 @@
 - snowplow/snowplow-rdb-loader
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
-- SoMind/authz-verify-proxy
 - soundcloud/twinagle
 - spf3000/functional-kniffle
 - spotify/big-data-rosetta-code
