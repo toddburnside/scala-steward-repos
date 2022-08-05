@@ -1204,6 +1204,7 @@
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
 - soundcloud/twinagle
+- spekka/spekka
 - spf3000/functional-kniffle
 - spotify/big-data-rosetta-code
 - spotify/elitzur
