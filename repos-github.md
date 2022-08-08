@@ -428,6 +428,7 @@
 - fdietze/bench
 - fdietze/colorado
 - fdietze/flatland
+- fdietze/formidable
 - fdietze/scala-js-d3v4
 - fdietze/scala-js-fontawesome
 - fdietze/vectory
