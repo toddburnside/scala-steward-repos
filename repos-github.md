@@ -1426,8 +1426,6 @@
 - wiringbits/sjs-material-ui-facade
 - wiringbits/wiringbits-webapp-utils
 - wjglerum/bamboesmanager
-- wvlet/airframe
-- wvlet/wvlet
 - xencura/kagera
 - xerial/sbt-pack
 - xerial/sbt-sonatype
