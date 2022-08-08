@@ -630,6 +630,7 @@
 - kwark/play-refined
 - kwark/slick-refined
 - lancewalton/treelog
+- lapsusHQ/templary
 - laserdisc-io/eisner
 - laserdisc-io/fs2-aws
 - laserdisc-io/laserdisc
