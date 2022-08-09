@@ -160,6 +160,7 @@
 - build-server-protocol/build-server-protocol
 - buntec/ff4s
 - Bunyod/PracticalFPinScala
+- busti/scalajs-interactjs
 - BusyByte/flutterby
 - butcherless/incubator
 - butcherless/scala
@@ -220,11 +221,11 @@
 - com-lihaoyi/geny
 - com-lihaoyi/mainargs
 - com-lihaoyi/mill
-- com-lihayoi/os-lib
 - com-lihaoyi/requests-scala
 - com-lihaoyi/scalatags
 - com-lihaoyi/upickle
 - com-lihaoyi/utest
+- com-lihayoi/os-lib
 - concrete-cp/concrete
 - concrete-cp/cspom
 - cornerman/chameleon
