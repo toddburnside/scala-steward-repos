@@ -781,6 +781,7 @@
 - nafg/slick-additions
 - nafg/slick-migration-api
 - nafg/slick-migration-api-flyway
+- NakajoLab/B4-Processor
 - namely/chief-of-state
 - naoh87/lettucef
 - navidjalali/firebaseauth
