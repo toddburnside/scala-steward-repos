@@ -1320,7 +1320,7 @@
 - tofu-tf/derevo
 - tofu-tf/tofu
 - tomwadeson/scala-barebones
-- topl/bifrost
+- topl/bifrost:dev
 - ToToTec/CmdOption
 - tototoshi/slick-joda-mapper
 - to-ithaca/libra
