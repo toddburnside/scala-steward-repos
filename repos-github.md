@@ -246,6 +246,7 @@
 - coursier/sbt-cs-publish
 - coursier/sbt-launcher
 - coursier/sbt-runner
+- coursier/sbt-shading
 - cquiroz/kuyfi
 - cquiroz/sbt-locales
 - cquiroz/sbt-tzdb
