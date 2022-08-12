@@ -618,6 +618,7 @@
 - kontainers/elastic4s-client-aws
 - kontainers/micrometer-akka
 - kontainers/PureCSV
+- kostjas/spark-google-spreadsheets
 - kovszilard/smenu
 - kovszilard/twitter-server-prometheus
 - krzemin/octopus
