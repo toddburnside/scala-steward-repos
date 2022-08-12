@@ -604,6 +604,8 @@
 - kiambogo/fs2-jms
 - kiendang/python-native-libs
 - kiendang/sbt-scalapy
+- kierendavies/mill-explicit-deps
+- kierendavies/skunk-migrate
 - kinoplan/scalajs-react-material-ui
 - kinoplan/utils
 - kitlangton/animus
