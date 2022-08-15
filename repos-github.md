@@ -1028,6 +1028,8 @@
 - samueltardieu/rxtelegram
 - sangria-graphql/macro-visit
 - sangria-graphql/sangria
+- sangria-graphql/sangria-akka-http
+- sangria-graphql/sangria-akka-http-example
 - sangria-graphql/sangria-akka-streams
 - sangria-graphql/sangria-argonaut
 - sangria-graphql/sangria-circe
