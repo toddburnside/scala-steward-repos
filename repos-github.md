@@ -1388,6 +1388,7 @@
 - uptane/treehub
 - user-signal/fs2-mqtt
 - vadimbakaev/scala-fast-start
+- valencik/textmogrify
 - valentinHenry/blaireau
 - valskalla/odin
 - vasilmkd/docker-stats-monitor
