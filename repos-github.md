@@ -1080,6 +1080,7 @@
 - scala2ts/scala2ts-sbt
 - scalabin-no/http4s-directives
 - ScalablyTyped/Converter
+- scalacenter/bloop
 - scalacenter/effective-scala-slide-code
 - scalacenter/library-example
 - scalacenter/sbt-eviction-rules
