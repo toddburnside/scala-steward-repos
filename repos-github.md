@@ -1044,7 +1044,9 @@
 - sangria-graphql/sangria-monix
 - sangria-graphql/sangria-msgpack
 - sangria-graphql/sangria-play-json
+- sangria-graphql/sangria-playground
 - sangria-graphql/sangria-relay
+- sangria-graphql/sangria-relay-playground
 - sangria-graphql/sangria-rxscala
 - sangria-graphql/sangria-slowlog
 - sangria-graphql/sangria-spray-json
