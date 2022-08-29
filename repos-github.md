@@ -160,7 +160,6 @@
 - build-server-protocol/build-server-protocol
 - buntec/ff4s
 - Bunyod/PracticalFPinScala
-- busti/scalajs-interactjs
 - BusyByte/flutterby
 - butcherless/incubator
 - butcherless/scala
