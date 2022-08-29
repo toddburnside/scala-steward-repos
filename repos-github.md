@@ -1327,8 +1327,6 @@
 - TobiasRoland/scala-xml-encoder
 - toddburnside/scalajs-react-table
 - toddburnside/scalajs-react-virtuoso
-- tofu-tf/derevo
-- tofu-tf/tofu
 - tomwadeson/scala-barebones
 - topl/bifrost:dev
 - ToToTec/CmdOption
