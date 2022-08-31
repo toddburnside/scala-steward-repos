@@ -980,6 +980,7 @@
 - raboof/sbt-reproducible-builds
 - rcmartins/blinky
 - reactific/sbt-reactific
+- reactific/riddl
 - ReactiveMongo/Play-ReactiveMongo
 - ReactiveMongo/ReactiveMongo
 - ReactiveMongo/ReactiveMongo-BSON
