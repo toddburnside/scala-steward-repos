@@ -67,6 +67,7 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
+- andreamarcolin/oidc4s
 - andyglow/caseclass-evolution
 - andyglow/scalacheck-gen-configured
 - andyglow/scaladoc
