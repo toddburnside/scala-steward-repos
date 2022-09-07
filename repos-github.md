@@ -638,6 +638,7 @@
 - kubukoz/sup
 - kwark/play-refined
 - kwark/slick-refined
+- lambdaworks/scurl-detector
 - lancewalton/treelog
 - lapsusHQ/templary
 - laserdisc-io/eisner
