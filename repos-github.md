@@ -130,12 +130,16 @@
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
 - benhutchison/modesofcomposition
+- benthecarman/OP-RETURN-Bot
+- benthecarman/scalastr
+- benthecarman/translnd
 - betagouv/aplus
 - betagouv/plante-et-moi-backend
 - betagouv/signalement-api
 - bharath12345/playing
 - Billzabob/dissonance
 - Billzabob/ForDeckmacia
+- bitcoin-s/bitcoin-s
 - bitlap/zim
 - bitmarck-service/base32check-java
 - bitmarck-service/base32check-scala
@@ -694,6 +698,7 @@
 - limansky/beanpuree
 - liquibase4s/liquibase4s
 - liuhongchao/debug4s
+- ln-vortex/ln-vortex
 - loicknuchel/SafeQL
 - loicknuchel/TypedAPI
 - lolgab/mill-mima
