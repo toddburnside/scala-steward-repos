@@ -232,7 +232,7 @@
 - com-lihaoyi/scalatags
 - com-lihaoyi/upickle
 - com-lihaoyi/utest
-- com-lihayoi/os-lib
+- com-lihaoyi/os-lib
 - concrete-cp/concrete
 - concrete-cp/cspom
 - cornerman/chameleon
