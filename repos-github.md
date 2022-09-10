@@ -213,6 +213,7 @@
 - ckipp01/mill-ci-release
 - ckipp01/mill-giter8
 - ckipp01/mill-github-dependency-graph
+- ckipp01/mill-plugin.g8
 - ckipp01/mill-scip
 - CleverCloud/akka-warp10-scala-client
 - clovellytech/http4s-modules
