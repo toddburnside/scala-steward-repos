@@ -1211,6 +1211,7 @@
 - Slakah/uritemplate4s
 - slick/hello-slick
 - slick/slick
+- slick/slick-cats
 - slick/slick-codegen-example
 - slick/slick-multidb
 - slick/slick-plainsql
