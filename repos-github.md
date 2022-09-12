@@ -172,6 +172,7 @@
 - caesarsdigital/trace4cats-zio-extras
 - caesarsdigital/zio-diffx
 - carlosedp/chiselv
+- carlosedp/riscvassembler
 - carlosedp/scalautils
 - carueda/tscfg
 - cb372/cats-retry
