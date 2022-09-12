@@ -645,6 +645,7 @@
 - kubukoz/sup
 - kwark/play-refined
 - kwark/slick-refined
+- lambdaworks/scountries
 - lambdaworks/scurl-detector
 - lancewalton/treelog
 - lapsusHQ/templary
