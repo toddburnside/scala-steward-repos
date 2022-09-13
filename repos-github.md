@@ -611,6 +611,7 @@
 - kelnos/scala-cross-maven-plugin
 - kelnos/tut-maven-plugin
 - kemitix/thorp
+- Khalian/Modulo12
 - kiambogo/fs2-jms
 - kiendang/python-native-libs
 - kiendang/sbt-scalapy
