@@ -1274,6 +1274,7 @@
 - taig/flog
 - taig/lokal
 - taig/sbt-blowout
+- taig/sbt-houserules
 - taig/scala-linguist
 - taig/scala-pygments
 - takayahilton/sql-formatter
