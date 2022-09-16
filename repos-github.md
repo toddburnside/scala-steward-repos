@@ -165,7 +165,6 @@
 - build-server-protocol/build-server-protocol
 - buntec/ff4s
 - Bunyod/PracticalFPinScala
-- BusyByte/flutterby
 - butcherless/incubator
 - butcherless/scala
 - butcherless/tapir-learn
