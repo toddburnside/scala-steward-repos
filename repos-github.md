@@ -950,6 +950,7 @@
 - polyvariant/better-tostring
 - polyvariant/caliban-gitlab
 - polyvariant/doobie-quill
+- polyvariant/colorize-scala
 - ppurang/abctemplates
 - ppurang/asynch
 - pravin-raha/maantrack
