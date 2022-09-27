@@ -1506,4 +1506,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- tusharmath/zio-compose
+- tailcallhq/zio-compose
