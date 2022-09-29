@@ -762,6 +762,7 @@
 - mkuthan/stream-processing
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
+- molarmanful/sclin
 - molikto/medit
 - monadless/monadless
 - monix/minitest
