@@ -153,8 +153,6 @@
 - blemale/scaffeine
 - blended-zio/blended-zio
 - blindnet-io/blindsend-server
-- bot4s/telegram
-- bot4s/zmatrix
 - BotTech/scala2plantuml
 - bpholt/java-time-literals
 - brbrown25/macros
