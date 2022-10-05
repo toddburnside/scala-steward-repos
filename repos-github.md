@@ -981,6 +981,7 @@
 - precog/sbt-quasar-plugin
 - precog/slamdata-predef
 - precog/suprem
+- profunktor/fs2-rabbit
 - proteinevolution/Toolkit
 - pstutz/scala-fullstack
 - pureconfig/pureconfig
