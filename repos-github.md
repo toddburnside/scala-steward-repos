@@ -962,6 +962,7 @@
 - precog/slamdata-predef
 - precog/suprem
 - profunktor/fs2-rabbit
+- prom3th3us/zio-actors-cassandra-journal
 - proteinevolution/Toolkit
 - pstutz/scala-fullstack
 - pureconfig/pureconfig
