@@ -996,8 +996,6 @@
 - rememberthemilk/akka-amqp
 - rewards-network/pure-aws
 - rintcius/scala-steward-ping
-- rpiaggio/crystal
-- rpiaggio/log4cats-loglevel
 - rpiaggio/meal
 - rtimush/sbt-rewarn
 - rtimush/sbt-updates
