@@ -171,6 +171,7 @@
 - carlosedp/chiselv
 - carlosedp/riscvassembler
 - carlosedp/scalautils
+- carlosedp/mill-docker-nativeimage
 - carueda/tscfg
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
