@@ -1042,6 +1042,7 @@
 - sangria-graphql/sangria-slowlog
 - sangria-graphql/sangria-spray-json
 - sangria-graphql/sangria-streaming-api
+- sangria-graphql/sangria-subscriptions-example
 - satabin/fs2-data
 - sbt-dao-generator/sbt-dao-generator
 - sbt/sbt-autoversion
