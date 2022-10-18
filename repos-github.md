@@ -252,7 +252,6 @@
 - coursier/jni-utils
 - coursier/sbt-coursier
 - coursier/sbt-cs-publish
-- coursier/sbt-launcher
 - coursier/sbt-runner
 - coursier/sbt-shading
 - cquiroz/kuyfi
