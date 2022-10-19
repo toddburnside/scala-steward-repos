@@ -1163,6 +1163,7 @@
 - senia-psm/zio-test-akka-http
 - sentenza/cats-http4s-crypto
 - sentenza/hacktoberfest-scala-algorithms
+- sentenza/PureCSV
 - SethTisue/cloc-plugin
 - SethTisue/Project-Euler
 - shadaj/scalapy
