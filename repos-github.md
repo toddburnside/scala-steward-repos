@@ -1201,9 +1201,6 @@
 - slick/slick-plainsql
 - slick/slick-testkit-example
 - sloshy/fs2-es
-- snowplow-incubator/cla-bot
-- snowplow-incubator/snowplow-indicative-relay
-- snowplow/snowplow-rdb-loader
 - solidninja/albion
 - solidninja/schema-registry-sttp-client
 - soundcloud/twinagle
