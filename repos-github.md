@@ -50,6 +50,7 @@
 - alexarchambault/argonaut-shapeless
 - alexarchambault/case-app
 - alexarchambault/data-class
+- alexarchambault/mill-native-image
 - alexarchambault/missing-link-cli
 - alexarchambault/plotly-scala
 - alexarchambault/sbt-coursier-export
