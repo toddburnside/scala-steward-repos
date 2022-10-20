@@ -514,6 +514,9 @@
 - hireproof/screening
 - hnaderi/edomata
 - hntd187/spotify
+- holdenk/sparkProjectTemplate.g8
+- holdenk/spark-testing-base
+- holdenk/spark-upgrade
 - holidaycheck/easy-akka-http
 - hrj/abandon
 - hseeberger/akka-http-json
