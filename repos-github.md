@@ -157,7 +157,8 @@
 - BotTech/scala2plantuml
 - bpholt/java-time-literals
 - brbrown25/macros
-- broadinstitute/cromwell
+- broadinstitute/cromwell 
+- broadinstitute/poolq
 - broadinstitute/workbench-libs
 - brsyuksel/xurl
 - buildo/retro
