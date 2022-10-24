@@ -440,6 +440,7 @@
 - fp-tower/foundations
 - fp-tower/supercharge-scala-future
 - francescofrontera/MLFlow-scala-client
+- frawa/typed-json
 - freechipsproject/chisel3
 - freechipsproject/chisel-template
 - freechipsproject/diagrammer
