@@ -585,6 +585,11 @@
 - kailuowang/mau
 - kailuowang/sbt-catalysts
 - kaizen-solutions/virgil
+- Karasiq/shadowcloud
+- Karasiq/scalajs-bootstrap
+- Karasiq/scalajs-bundler
+- Karasiq/scalajs-videojs
+- Karasiq/webm-tv
 - katlasik/functionmeta
 - kcrypt/scala-biginteger
 - kcrypt/scala-blake3
