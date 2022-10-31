@@ -587,7 +587,7 @@
 - kaizen-solutions/virgil
 - Karasiq/shadowcloud
 - Karasiq/scalajs-bootstrap
-- Karasiq/scalajs-bundler
+- Karasiq/sbt-scalajs-bundler
 - Karasiq/scalajs-videojs
 - Karasiq/webm-tv
 - katlasik/functionmeta
