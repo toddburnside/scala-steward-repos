@@ -309,6 +309,7 @@
 - dimitarg/weaver-test-extra
 - disneystreaming/smithy4s
 - disneystreaming/smithy4s.g8
+- disneystreaming/smithy-translate
 - disneystreaming/weaver-test
 - dispalt/tagless-redux
 - djspiewak/base.g8
