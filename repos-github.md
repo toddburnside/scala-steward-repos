@@ -233,6 +233,7 @@
 - com-lihaoyi/mill
 - com-lihaoyi/mill-scala-hello.g8
 - com-lihaoyi/os-lib
+- com-lihaoyi/PPrint
 - com-lihaoyi/requests-scala
 - com-lihaoyi/scalatags
 - com-lihaoyi/upickle
