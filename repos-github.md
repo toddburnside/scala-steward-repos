@@ -861,7 +861,7 @@
 - pdalpra/scalalint
 - peregin/gps-overlay-on-video
 - peregin/velocorner.com
-- permutive/fs2-google-pubsub
+- permutive-engineering/fs2-google-pubsub
 - permutive-engineering/prometheus4cats
 - peterstorm/scala3-template
 - pfcoperez/thebutlerdidit
