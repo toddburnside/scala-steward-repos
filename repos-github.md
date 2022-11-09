@@ -832,6 +832,7 @@
 - NthPortal/reservoir
 - NthPortal/spaghetti
 - NthPortal/v
+- ocadotechnology/pass4s
 - ocadotechnology/sttp-oauth2
 - odenzo/scala3-template
 - olafurpg/sbt-ci-release
