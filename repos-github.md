@@ -99,6 +99,7 @@
 - Atry/scalajs-all-in-one-template
 - Atry/XmlExtractor.scala
 - augustjune/canoe
+- austinwarrren/til
 - av8data/add_transformers
 - avast/datadog4s
 - avast/datadog4s:series/cats-effect2
