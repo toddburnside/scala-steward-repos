@@ -882,6 +882,7 @@
 - Philippus/between
 - Philippus/bump
 - Philippus/emoji-clock
+- Philippus/gpc-tree
 - Philippus/habitat.g8
 - Philippus/julius
 - Philippus/julius-iii
