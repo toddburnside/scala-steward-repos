@@ -866,6 +866,7 @@
 - peregin/velocorner.com
 - permutive-engineering/fs2-google-pubsub
 - permutive-engineering/prometheus4cats
+- permutive-engineering/prometheus4cats-contrib
 - permutive-engineering/refreshable
 - peterstorm/scala3-template
 - pfcoperez/thebutlerdidit
