@@ -361,8 +361,8 @@
 - enlivensystems/scala-iso
 - enriquerodbe/borsh4s
 - enzief/recursionz
-- erikerlandson/coulomb
 - erikerlandson/coulomb:scala3
+- erikerlandson/coulomb:scala2
 - erikvanoosten/metrics-scala
 - esamson/better-xdg
 - esamson/remder
