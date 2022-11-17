@@ -1231,6 +1231,7 @@
 - spotify/big-data-rosetta-code
 - spotify/elitzur
 - spotify/featran
+- spotify/gcs-tools
 - spotify/magnolify
 - spotify/noether
 - spotify/ratatool
