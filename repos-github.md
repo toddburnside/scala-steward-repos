@@ -874,6 +874,7 @@
 - phdoerfler/beegment
 - phdoerfler/enni
 - phdoerfler/latex-scanner
+- phelps-sg/play-hmac-signatures
 - phenoscape/owlery
 - phenoscape/owlet
 - phenoscape/phenoscape-kb-services
