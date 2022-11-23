@@ -1506,3 +1506,5 @@
 - zzvara/spark-disqus
 - zzvara/spark-youtube
 - tailcallhq/zio-compose
+- ThatScalaGuy/ulid4cats
+- ThatScalaGuy/circe-jq
