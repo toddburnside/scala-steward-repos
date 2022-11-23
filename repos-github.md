@@ -121,9 +121,6 @@
 - balhoff/relation-graph
 - balhoff/whelk
 - balhoff/whelk-web
-- barambani/docker-effect
-- barambani/http4s-poc-api
-- barambani/laws
 - bartholomews/fsclient
 - bbarker/diz
 - bcarter97/id-generator
