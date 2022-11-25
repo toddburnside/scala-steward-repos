@@ -307,6 +307,7 @@
 - dieproht/matr
 - dimitarg/bb-webhook
 - dimitarg/weaver-test-extra
+- disneystreaming/alloy
 - disneystreaming/smithy4s
 - disneystreaming/smithy4s.g8
 - disneystreaming/smithy-translate
