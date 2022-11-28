@@ -1125,7 +1125,6 @@
 - scalapb/zio-grpc
 - scala-bones/bones
 - scala-bones/scatonic-ideal
-- scala-cli/metabrowse
 - scala-cli/scalafmt-native-image
 - scala-cli/scala-cli-signing
 - scala-cli/scala-js-cli
