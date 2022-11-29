@@ -1381,6 +1381,7 @@
 - twitter/algebird
 - twitter/bijection
 - twitter/chill
+- typelevel/fabric
 - typeness/spray-json-refined
 - tyrantkhan/vault4s
 - ua-parser/uap-scala
