@@ -69,6 +69,7 @@
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
 - andreamarcolin/oidc4s
+- andreum/process-resource
 - andrewrigas/oath
 - andyglow/caseclass-evolution
 - andyglow/scalacheck-gen-configured
