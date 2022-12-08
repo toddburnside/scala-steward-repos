@@ -1496,3 +1496,4 @@
 - tailcallhq/zio-compose
 - ThatScalaGuy/ulid4cats
 - ThatScalaGuy/circe-jq
+- kovstas/fs2-throttler
