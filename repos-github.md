@@ -1478,7 +1478,6 @@
 - zio/zio-process
 - zio/zio-project-seed.g8
 - zio/zio-protoquill
-- zio/zio-query
 - zio/zio-redis
 - zio/zio-s3
 - zio/zio-sql
