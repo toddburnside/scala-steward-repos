@@ -1118,6 +1118,7 @@
 - scala-graph/scala-graph
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
+- scala-steward-org/mill-plugin
 - scala-steward-org/scala-steward
 - scala-tessella/ring-seq
 - scala-tsi/scala-tsi
