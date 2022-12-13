@@ -1405,6 +1405,8 @@
 - VirtusLab/coursier-m1
 - VirtusLab/ide-probe
 - VirtusLab/scala-cli
+- VirtusLab/scala-cli-signing
+- VirtusLab/scala-js-cli
 - VirtusLab/scala-packager
 - VirtusLab/scala-yaml
 - VladKopanev/cats-saga
