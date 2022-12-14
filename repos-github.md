@@ -1403,6 +1403,7 @@
 - vigoo/scalafxml
 - vigoo/simpp
 - VirtusLab/akka-serialization-helper
+- VirtusLab/avocADO
 - VirtusLab/coursier-m1
 - VirtusLab/ide-probe
 - VirtusLab/scala-cli
