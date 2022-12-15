@@ -1408,6 +1408,7 @@
 - VirtusLab/ide-probe
 - VirtusLab/scala-cli
 - VirtusLab/scala-cli-signing
+- VirtusLab/scalafmt-native-image
 - VirtusLab/scala-js-cli
 - VirtusLab/scala-packager
 - VirtusLab/scala-yaml
