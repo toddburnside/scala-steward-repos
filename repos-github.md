@@ -544,6 +544,7 @@
 - IndiscriminateCoding/jetty4s
 - informalsystems/apalache
 - ing-bank/baker
+- inoio/solrs
 - intracer/scalawiki
 - iRevive/fmq
 - iRevive/sbt-integration-env
