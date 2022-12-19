@@ -1502,3 +1502,4 @@
 - ThatScalaGuy/ulid4cats
 - ThatScalaGuy/circe-jq
 - kovstas/fs2-throttler
+- yarhrn/rozklad
