@@ -1245,7 +1245,6 @@
 - suzaku-io/diode
 - svroonland/play-json-optics
 - svroonland/rezilience
-- svroonland/scala-ads-client
 - svroonland/scodec-ais
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
@@ -1264,8 +1263,6 @@
 - taig/lokal
 - taig/sbt-blowout
 - taig/sbt-houserules
-- taig/scala-linguist
-- taig/scala-pygments
 - takayahilton/sql-formatter
 - tanishiking/scalafix-unused
 - tanishiking/semanticdb-for-scala3
@@ -1275,7 +1272,6 @@
 - TeamWanari/tutelar
 - TeamWanari/web-push
 - tegonal/workflow-helper
-- tenable/Kastle
 - tersesystems/blindsight
 - tethys-json/tethys
 - theiterators/akka-http-microservice
@@ -1389,7 +1385,6 @@
 - uptane/ota-tuf
 - uptane/treehub
 - user-signal/fs2-mqtt
-- vadimbakaev/scala-fast-start
 - valencik/textmogrify
 - valentinHenry/blaireau
 - valskalla/odin
@@ -1438,7 +1433,6 @@
 - wiringbits/cazadescuentos
 - wiringbits/my-photo-timeline
 - wiringbits/safer.chat
-- wiringbits/scala-webapp-template
 - wiringbits/sjs-material-ui-facade
 - wiringbits/wiringbits-webapp-utils
 - wjglerum/bamboesmanager
@@ -1477,7 +1471,6 @@
 - zio/zio-keeper
 - zio/zio-lambda
 - zio/zio-logging
-- zio/zio-morphir
 - zio/zio-nio
 - zio/zio-optics
 - zio/zio-parser
@@ -1491,8 +1484,6 @@
 - zio/zio-sqs
 - zio/zio-telemetry
 - zio/zio-test-intellij
-- zio/zio-web
-- zio/zio-zmx
 - ziyasal/reducio
 - ZookLabs/zooklabs
 - zouzias/spark-hello-world
