@@ -34,7 +34,6 @@
 - akka/akka-persistence-cassandra
 - akka/akka-persistence-jdbc
 - akka/akka-persistence-r2dbc
-- akka/akka-persistence-spanner
 - akka/akka-projection
 - akka/akka-sample-cluster-docker-compose-java
 - akka/akka-sample-cluster-docker-compose-scala
@@ -136,7 +135,6 @@
 - benthecarman/translnd
 - betagouv/aplus
 - betagouv/plante-et-moi-backend
-- betagouv/signalement-api
 - bharath12345/playing
 - Billzabob/dissonance
 - Billzabob/ForDeckmacia
