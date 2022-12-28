@@ -168,7 +168,6 @@
 - butcherless/scala
 - butcherless/tapir-learn
 - caesarsdigital/trace4cats-zio-extras
-- caesarsdigital/zio-diffx
 - carlosedp/chiselv
 - carlosedp/riscvassembler
 - carlosedp/scalautils
@@ -208,7 +207,6 @@
 - circe/circe-optics
 - circe/circe-schema
 - circe/circe-spire
-- circe/circe-spray
 - circe/circe-yaml
 - ckipp01/mill-ci-release
 - ckipp01/mill-giter8
