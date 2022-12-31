@@ -826,6 +826,7 @@
 - ocadotechnology/sttp-oauth2
 - odenzo/scala3-template
 - olafurpg/sbt-ci-release
+- open-electrons/open-electrons-templates
 - openzipkin/zipkin-finagle
 - optics-dev/Monocle
 - orbeon/orbeon-forms
