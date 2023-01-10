@@ -1245,6 +1245,7 @@
 - sweet-delights/delightful-edifact
 - sweet-delights/delightful-parsing
 - sweet-delights/delightful-typeclasses
+- SwiftInvention/scala-zio-example
 - SwissBorg/akka-persistence-postgres
 - synesso/scala-stellar-horizon-exemplar
 - synesso/scala-stellar-sdk
