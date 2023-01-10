@@ -803,6 +803,7 @@
 - niqdev/kafka-scala-examples
 - niqdev/scala-fp
 - nivanov/cosplay
+- nMoncho/helenus
 - NomadBlacky/digdag-plugin-datadog
 - NomadBlacky/scaladog
 - NomadBlacky/scala_examples
