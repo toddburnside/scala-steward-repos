@@ -1445,7 +1445,6 @@
 - zengularity/benji
 - zengularity/query-monad
 - zio/caliban-deriving
-- zio/interop-cats
 - zio/interop-guava
 - zio/interop-monix
 - zio/interop-scalaz
