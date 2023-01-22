@@ -1478,3 +1478,4 @@
 - ThatScalaGuy/circe-jq
 - kovstas/fs2-throttler
 - yarhrn/rozklad
+- scala-jwt/oath
