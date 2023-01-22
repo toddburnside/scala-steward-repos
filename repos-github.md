@@ -1430,6 +1430,7 @@
 - YannMoisan/sbopt
 - yanns/scala-json-parsers-performance
 - yisraelU/Smithy4s-TodoBackend
+- yoohaemin/decrel
 - yoshiyoshifujii/reactive-snowflake
 - yoshiyoshifujii/sbt-jig
 - yurique/embedded-files
