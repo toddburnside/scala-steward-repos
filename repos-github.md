@@ -1103,6 +1103,7 @@
 - scala-graph/scala-graph
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
+- scala-jwt/oath
 - scala-steward-org/mill-plugin
 - scala-steward-org/sbt-plugin
 - scala-steward-org/scala-steward
@@ -1430,6 +1431,7 @@
 - YannMoisan/sbopt
 - yanns/scala-json-parsers-performance
 - yisraelU/Smithy4s-TodoBackend
+- yoohaemin/decrel
 - yoshiyoshifujii/reactive-snowflake
 - yoshiyoshifujii/sbt-jig
 - yurique/embedded-files
@@ -1480,3 +1482,4 @@
 - yarhrn/rozklad
 - yarhrn/simple-scala-json-rpc
 - yarhrn/loco
+- yadavan88/blog-code-samples
