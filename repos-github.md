@@ -1103,6 +1103,7 @@
 - scala-graph/scala-graph
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
+- scala-jwt/oath
 - scala-steward-org/mill-plugin
 - scala-steward-org/sbt-plugin
 - scala-steward-org/scala-steward
@@ -1478,4 +1479,3 @@
 - ThatScalaGuy/circe-jq
 - kovstas/fs2-throttler
 - yarhrn/rozklad
-- scala-jwt/oath
