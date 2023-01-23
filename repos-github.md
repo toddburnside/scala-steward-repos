@@ -1480,4 +1480,6 @@
 - ThatScalaGuy/circe-jq
 - kovstas/fs2-throttler
 - yarhrn/rozklad
+- yarhrn/simple-scala-json-rpc
+- yarhrn/loco
 - yadavan88/blog-code-samples
