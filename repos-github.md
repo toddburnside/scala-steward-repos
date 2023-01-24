@@ -367,6 +367,7 @@
 - etorres/markdown-transformation-kata-scala
 - etorres/train-station
 - etspaceman/kinesis-mock
+- etspaceman/kinesis4cats
 - etspaceman/scalacheck-faker
 - EventStore/EventStore.Akka.Persistence
 - EventStore/EventStore.JVM
