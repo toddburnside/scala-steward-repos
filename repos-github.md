@@ -1424,8 +1424,6 @@
 - wiringbits/wiringbits-webapp-utils
 - wjglerum/bamboesmanager
 - xencura/kagera
-- xerial/sbt-pack
-- xerial/sbt-sonatype
 - yannick-cw/elastic-indexer4s
 - yannick-cw/sjq
 - YannMoisan/graphite4s
