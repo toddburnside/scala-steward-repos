@@ -795,6 +795,7 @@
 - nevillelyh/shapeless-datatype
 - NickBurkard/aws-cdk-scala
 - nightscape/scala-node-red
+- nikitaDanilenko/foodie
 - niklasf/lila-openingexplorer
 - niqdev/caliban-extras
 - niqdev/kafka-scala-examples
