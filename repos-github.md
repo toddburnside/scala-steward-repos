@@ -625,6 +625,7 @@
 - kwark/slick-refined
 - lambdaworks/scountries
 - lambdaworks/scurl-detector
+- lambdaworks/zio-elasticsearch
 - lancewalton/treelog
 - lapsusHQ/templary
 - laserdisc-io/eisner
