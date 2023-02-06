@@ -1455,6 +1455,7 @@
 - zio/zio-lambda
 - zio/zio-logging
 - zio/zio-nio
+- zio/zio-openai
 - zio/zio-parser
 - zio/zio-prelude
 - zio/zio-process
