@@ -745,6 +745,7 @@
 - monix/monix:series/4.x
 - monix/newtypes
 - monksy/serialization-checker
+- mpollmeier/scala-repl-pp
 - msgpack/msgpack-java
 - mukhtar1227ali/Poker_2
 - mvillafuertem/akka-zio
