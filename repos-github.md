@@ -112,6 +112,7 @@
 - azavea/franklin
 - azavea/stac4s
 - azhur/kafka-serde-scala
+- Baeldung/scala-tutorials
 - balhoff/arachne
 - balhoff/archimedes
 - balhoff/blazegraph-runner
