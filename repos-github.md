@@ -1105,6 +1105,7 @@
 - scala-js/scala-js-dom
 - scala-js/scala-js-macrotask-executor
 - scala-jwt/oath
+- scala-native/scala-native.g8
 - scala-steward-org/mill-plugin
 - scala-steward-org/sbt-plugin
 - scala-steward-org/scala-steward
