@@ -791,6 +791,8 @@
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
 - NickBurkard/aws-cdk-scala
+- nigeleke/cribbage
+- nigeleke/life
 - nightscape/scala-node-red
 - nikitaDanilenko/foodie
 - niklasf/lila-openingexplorer
