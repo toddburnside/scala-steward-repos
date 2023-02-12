@@ -309,6 +309,7 @@
 - djspiewak/base.g8
 - djspiewak/gll-combinators
 - djspiewak/sbt-spiewak
+- djx314/sbt-depts
 - dmrolfs/base-sbt-mult-project
 - dmrolfs/omnibus
 - domino-osgi/domino
