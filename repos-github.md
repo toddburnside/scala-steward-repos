@@ -848,8 +848,6 @@
 - pauljamescleary/scala-pet-store
 - payalabs/scalajs-react-bridge
 - pbernet/akka_streams_tutorial
-- pdalpra/computer-database
-- pdalpra/scalalint
 - peregin/gps-overlay-on-video
 - peregin/velocorner.com
 - permutive-engineering/fs2-google-pubsub
