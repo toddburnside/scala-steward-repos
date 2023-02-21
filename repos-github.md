@@ -1264,6 +1264,7 @@
 - tersesystems/blindsight
 - tethys-json/tethys
 - theiterators/akka-http-microservice
+- theiterators/pekko-http-microservice
 - theiterators/kebs
 - theiterators/sealed-monad
 - thesamet/sbt-protoc
