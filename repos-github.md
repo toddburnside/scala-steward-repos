@@ -906,9 +906,6 @@
 - playframework/anorm
 - playframework/cachecontrol
 - playframework/interplay
-- playframework/js-engine
-- playframework/netty-reactive-streams
-- playframework/npm
 - playframework/omnidoc
 - playframework/playframework
 - playframework/playframework.com
