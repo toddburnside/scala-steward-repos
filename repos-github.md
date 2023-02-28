@@ -612,6 +612,7 @@
 - kontainers/micrometer-akka
 - kontainers/PureCSV
 - kostjas/spark-google-spreadsheets
+- kovstas/fs2-throttler
 - kovszilard/smenu
 - kovszilard/twitter-server-prometheus
 - krzemin/octopus
@@ -1487,10 +1488,8 @@
 - tailcallhq/zio-compose
 - ThatScalaGuy/ulid4cats
 - ThatScalaGuy/circe-jq
-- kovstas/fs2-throttler
+- UKHomeOffice/drt-lib
 - yarhrn/rozklad
 - yarhrn/simple-scala-json-rpc
 - yarhrn/loco
 - yadavan88/blog-code-samples
-- UKHomeOffice/drt-lib
-
