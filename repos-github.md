@@ -1367,7 +1367,14 @@
 - ua-parser/uap-scala
 - ucb-bar/chisel-testers2
 - UdashFramework/udash-core
+- UKHomeOffice/bluebus
+- UKHomeOffice/drt-api-import
+- UKHomeOffice/drt-analytics
+- UKHomeOffice/drt-birmingham-schema
+- UKHomeOffice/drt-cirium
+- UKHomeOffice/drt-dashboard
 - UKHomeOffice/drt-lib
+- UKHomeOffice/drt-v2
 - ultimatesoftware/surge
 - ultram4rine/switchmap
 - underscoreio/slickless
