@@ -683,6 +683,7 @@
 - loicknuchel/TypedAPI
 - lolgab/mill-mima
 - lomigmegard/akka-http-cors
+- lomigmegard/pekko-http-cors
 - lorandszakacs/enclosure
 - LPTK/simple-sub
 - LREN-CHUV/woken
