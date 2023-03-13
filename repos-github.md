@@ -123,6 +123,7 @@
 - balhoff/whelk
 - balhoff/whelk-web
 - bartholomews/fsclient
+- bazeltools/bsp4bazel
 - bbarker/diz
 - bcarter97/id-generator
 - beautiful-scala/sbt-scalastyle
@@ -1497,4 +1498,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- bazeltools/bsp4bazel
