@@ -1497,3 +1497,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- bazeltools/bsp4bazel
