@@ -191,6 +191,7 @@
 - chenharryhua/nanjin
 - che-samples/scala-sbt
 - chief-of-state/chief-of-state
+- chitralverma/scala-polars
 - chmodas/akka-persistence-r2dbc
 - circe/circe
 - circe/circe-argus
