@@ -463,6 +463,7 @@
 - fun-stack/example
 - fun-stack/local-env 
 - fun-stack/sdk-scala
+- fwbrasil/kyo
 - geneontology/gaferencer
 - getquill/quill
 - gfc-collective/gfc-aws-cloudwatch
