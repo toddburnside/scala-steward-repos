@@ -1485,6 +1485,7 @@
 - zio/zio-parser
 - zio/zio-prelude
 - zio/zio-process
+- zio/zio-profiling
 - zio/zio-project-seed.g8
 - zio/zio-protoquill
 - zio/zio-redis
