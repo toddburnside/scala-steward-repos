@@ -174,6 +174,7 @@
 - carlosedp/mill-docker-nativeimage
 - carlosedp/riscvassembler
 - carlosedp/scalautils
+- carlos-verdes/zio-resource
 - carueda/tscfg
 - cb372/cats-retry
 - cb372/sbt-explicit-dependencies
