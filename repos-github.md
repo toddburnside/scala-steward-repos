@@ -698,6 +698,7 @@
 - lsug/lsug-website
 - ltbs/uniform-scala
 - lucidd/rpm4s
+- lucproglangcourse/primenumbers-http4s-scala
 - m2-oss/calypso
 - macro-peg/macro_peg
 - magott/scravatar
