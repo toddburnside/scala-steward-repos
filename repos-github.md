@@ -255,6 +255,7 @@
 - coursier/sbt-coursier
 - coursier/sbt-runner
 - coursier/sbt-shading
+- coursier/versions
 - cquiroz/kuyfi
 - cquiroz/sbt-locales
 - cquiroz/sbt-tzdb
