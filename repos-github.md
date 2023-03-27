@@ -176,6 +176,7 @@
 - carlosedp/mill-docker-nativeimage
 - carlosedp/riscvassembler
 - carlosedp/scalautils
+- carlos-verdes/zio-arangodb
 - carlos-verdes/zio-resource
 - carueda/tscfg
 - cb372/cats-retry
