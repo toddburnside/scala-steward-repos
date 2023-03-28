@@ -321,6 +321,7 @@
 - dmrolfs/omnibus
 - domino-osgi/domino
 - domino-osgi/domino-java
+- doriordan/skuber
 - doubleloop-io/applied-fp-workshop-scala
 - dream11/zio-http
 - dusan0098/Scalafix_FP_workshop
