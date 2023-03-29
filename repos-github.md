@@ -1480,6 +1480,7 @@
 - zio/zio-akka-cluster
 - zio/zio-config
 - zio/zio-crypto
+- zio/zio-dynamodb
 - zio/zio-flow
 - zio/zio-ftp
 - zio/zio-gcp
