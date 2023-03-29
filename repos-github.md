@@ -223,6 +223,7 @@
 - commercetools/sphere-scala-libs
 - compstak/circe-debezium
 - compstak/KafkaStreams4s
+- com-lihaoyi/Ammonite
 - com-lihaoyi/acyclic
 - com-lihaoyi/castor
 - com-lihaoyi/fansi
