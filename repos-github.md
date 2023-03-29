@@ -1477,7 +1477,7 @@
 - zio/zio-akka-cluster
 - zio/zio-config
 - zio/zio-crypto
-- zio/dynamodb
+- zio/zio-dynamodb
 - zio/zio-flow
 - zio/zio-ftp
 - zio/zio-gcp
