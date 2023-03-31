@@ -654,6 +654,7 @@
 - lefou/mill-jbake
 - lefou/mill-kotlin
 - lefou/mill-osgi
+- lefou/mill-vaadin
 - lefou/mill-vcs-version
 - LEGO/woof
 - leigh-perry/conduction
