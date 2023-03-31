@@ -1434,6 +1434,11 @@
 - Vyxal/Vyxal:version-3
 - waylayio/influxdb-scala
 - waylayio/kairosdb-scala
+- webjars/sample-play2
+- webjars/sample-play2-requirejs
+- webjars/webjars
+- webjars/webjars-file-service
+- webjars/webjars-play
 - wehkamp/cakemix
 - Wei-1/Scala-Machine-Learning
 - weso/document
