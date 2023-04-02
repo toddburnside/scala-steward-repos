@@ -144,6 +144,7 @@
 - Billzabob/ForDeckmacia
 - bitcoin-s/bitcoin-s
 - bitlap/zim
+- bitlap/rolls
 - bitmarck-service/base32check-java
 - bitmarck-service/base32check-scala
 - bitrockteam/kafka-dvs-api
