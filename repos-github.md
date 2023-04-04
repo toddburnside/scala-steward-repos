@@ -895,7 +895,7 @@
 - Philippus/osita
 - Philippus/pureconfig-javanet
 - Philippus/sbt-dotenv
-- Philippus/sbt-licencias
+- Philippus/sbt-license-check
 - Philippus/scala-for-all
 - Philippus/scala-isbn
 - picnicml/doddle-model
