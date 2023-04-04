@@ -1459,6 +1459,7 @@
 - wjglerum/bamboesmanager
 - xencura/kagera
 - yadavan88/blog-code-samples
+- yadavan88/cats-effect-intro
 - yannick-cw/elastic-indexer4s
 - yannick-cw/sjq
 - YannMoisan/graphite4s
