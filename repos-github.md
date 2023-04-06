@@ -371,6 +371,7 @@
 - esamson/sbt-groovy
 - etorreborre/specs2
 - etorreborre/specs2-cats
+- etorres/lambda4s-demo
 - etorres/markdown-transformation-kata-scala
 - etorres/train-station
 - etspaceman/kinesis4cats
