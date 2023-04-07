@@ -1410,6 +1410,7 @@
 - vaslabs/sbt-kubeyml
 - vaslabs/talos
 - vder/taskforce
+- vermas7988/stevedore
 - vertical-blank/scala-sql-formatter
 - vigoo/clipp
 - vigoo/desert
