@@ -812,6 +812,7 @@
 - nigeleke/flac4s:develop
 - nigeleke/life:develop
 - nigeleke/ohmic:develop
+- nigeleke/sbt-rust:develop
 - nigeleke/scala-seed.g8
 - nightscape/scala-node-red
 - nikitaDanilenko/foodie
