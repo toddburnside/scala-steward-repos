@@ -1341,8 +1341,6 @@
 - to-ithaca/libra
 - tpolecat/atto
 - tpolecat/doobie
-- tpolecat/natchez
-- tpolecat/skunk
 - trace4cats/trace4cats
 - trace4cats/trace4cats-avro
 - trace4cats/trace4cats-avro-kafka
