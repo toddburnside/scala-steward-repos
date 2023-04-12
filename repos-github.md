@@ -420,8 +420,7 @@
 - Fabszn/scaffolding-plugin-lagom
 - Facsimiler/facsimile
 - fbaierl/scalajs-i18n-rx
-- fd4s/fs2-kafka
-- fd4s/fs2-kafka:series/1.x
+- fd4s/fs2-kafka:series/2.x
 - fd4s/fs2-kafka:series/3.x
 - fd4s/vulcan
 - fdietze/bench
