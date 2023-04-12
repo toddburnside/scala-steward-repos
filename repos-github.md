@@ -713,6 +713,7 @@
 - makiftutuncu/e
 - manocha-aman/wind-alerts
 - MarcinAman/test-repo
+- MartinHH/scalacheck-derived
 - martinpallmann/gchat
 - matsluni/aws-spi-akka-http
 - mauriciojost/main4ino-server
