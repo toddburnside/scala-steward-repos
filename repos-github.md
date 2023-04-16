@@ -356,9 +356,7 @@
 - emergentorder/onnx-scala
 - endless4s/endless
 - endpoints4s/endpoints4s
-- enlivensystems/couchbase-spark-connector
 - enlivensystems/invoicing-hungarian
-- enlivensystems/scala-iso
 - enriquerodbe/borsh4s
 - enzief/recursionz
 - erikerlandson/coulomb:scala2
