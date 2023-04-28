@@ -211,7 +211,6 @@
 - circe/circe-iteratee
 - circe/circe-jackson
 - circe/circe-json-schema
-- circe/circe-magnolia
 - circe/circe-optics
 - circe/circe-schema
 - circe/circe-spire
@@ -1425,6 +1424,7 @@
 - vmunier/play-scalajs.g8
 - vmunier/sbt-web-scalajs
 - vmunier/scalajs-scripts
+- vpavkin/circe-magnolia
 - Vyxal/Vyxal:version-3
 - waylayio/influxdb-scala
 - waylayio/kairosdb-scala
