@@ -803,7 +803,6 @@
 - nevillelyh/parquet-extra
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
-- NickBurkard/aws-cdk-scala
 - nigeleke/cribbage:develop
 - nigeleke/flac4s:develop
 - nigeleke/life:develop
