@@ -236,6 +236,7 @@
 - com-lihaoyi/PPrint
 - com-lihaoyi/requests-scala
 - com-lihaoyi/scalatags
+- com-lihaoyi/sourcecode
 - com-lihaoyi/upickle
 - com-lihaoyi/utest
 - concrete-cp/concrete
