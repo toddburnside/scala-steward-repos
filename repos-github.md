@@ -513,6 +513,7 @@
 - hagay3/skuber
 - hajlaoui-nader/books 
 - hayasshi/akka-http-router
+- henricook/flakefinder
 - hipjim/scala-retry
 - hireproof/screening
 - hnaderi/edomata
