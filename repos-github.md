@@ -1457,7 +1457,9 @@
 - yadavan88/cats-effect-intro
 - yannick-cw/elastic-indexer4s
 - yannick-cw/sjq
+- YannMoisan/advent-of-code
 - YannMoisan/graphite4s
+- YannMoisan/hands-on-cats
 - YannMoisan/sbopt
 - yanns/scala-json-parsers-performance
 - yarhrn/loco
