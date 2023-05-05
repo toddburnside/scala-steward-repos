@@ -83,6 +83,7 @@
 - andyglow/websocket-scala-client
 - AndyKirsch/ScalaStewardIssueRepro
 - ant8e/sbt-i18n
+- ant8e/uuid4cats-effect
 - an-tex/sc8s
 - apache/daffodil
 - apache/incubator-nlpcraft
