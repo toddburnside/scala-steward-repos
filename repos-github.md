@@ -577,6 +577,7 @@
 - joernio/joern
 - joesan/plant-simulator
 - johannes-ebbighausen/oker
+- johnspade/csv3s
 - johnynek/bosatsu
 - jordiolivares/scio-sparql
 - jpbnetley/Mongo-csv-importer
