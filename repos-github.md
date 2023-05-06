@@ -677,10 +677,7 @@
 - lightbend-labs/scala-logging
 - lightbend-labs/scala-sculpt
 - lightbend/benchdb
-- lightbend/cloudflow
-- lightbend/cloudflow-contrib
 - lightbend/genjavadoc
-- lightbend/kafka-lag-exporter
 - lightbend/mima
 - lightbend/paradox
 - lightbend/sbt-paradox-apidoc
@@ -1168,6 +1165,7 @@
 - seblm/sbt-jgiven-scalatest-reporter
 - seblm/seblm-meals
 - sebver/scala-steward-demo
+- seglo/kafka-lag-exporter
 - senia-psm/zio-test-akka-http
 - sentenza/cats-http4s-crypto
 - sentenza/hacktoberfest-scala-algorithms
