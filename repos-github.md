@@ -695,6 +695,7 @@
 - lomigmegard/pekko-http-cors
 - lorandszakacs/enclosure
 - LPTK/simple-sub
+- lqhuang/watcher
 - LREN-CHUV/woken
 - LREN-CHUV/woken-messages
 - LREN-CHUV/woken-validation
