@@ -584,6 +584,8 @@
 - jsuereth/scala-arm
 - justapagamentos/playframework-core
 - justinhj/fp-starter-pack.g8
+- jwojnowski/fs2-aes
+- jwojnowski/oidc4s
 - jwt-scala/jwt-scala
 - jxnu-liguobin/scala-macro-tools
 - kailuowang/henkan
