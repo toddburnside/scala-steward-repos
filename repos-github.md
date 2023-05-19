@@ -1013,6 +1013,7 @@
 - reibitto/podpodge
 - rememberthemilk/akka-amqp
 - rewards-network/pure-aws
+- ringcentral/cassandra4io
 - rintcius/scala-steward-ping
 - rpiaggio/meal
 - rtimush/sbt-rewarn
