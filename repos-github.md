@@ -910,7 +910,6 @@
 - pityka/utils-interval
 - pityka/utils-string
 - pjan/akka-d3
-- planet42/Laika
 - playalot/ReactiveMongo-Extensions
 - playframework/.github
 - playframework/anorm
