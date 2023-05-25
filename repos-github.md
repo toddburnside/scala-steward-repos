@@ -1319,7 +1319,6 @@
 - Tinkoff/gatling-template.g8
 - Tinkoff/sbt-schema-registry-plugin
 - tixxit/delimited
-- tjheslin1/DMsPredictor
 - tkrs/fluflu
 - tkrs/mess
 - tkrs/orcus
