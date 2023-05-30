@@ -1014,6 +1014,7 @@
 - rewards-network/pure-aws
 - ringcentral/cassandra4io
 - rintcius/scala-steward-ping
+- routis/dmmf-scala
 - rpiaggio/meal
 - rtimush/sbt-rewarn
 - rtimush/sbt-updates
