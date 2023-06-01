@@ -159,6 +159,8 @@
 - blended-zio/blended-zio
 - blindnet-io/blindsend-server
 - BotTech/scala2plantuml
+- bpholt/cats-js-clipboard
+- bpholt/fake-ec2-metadata-service
 - bpholt/java-time-literals
 - brbrown25/macros
 - brbrown25/testcontainers-scala-kafka-utils
