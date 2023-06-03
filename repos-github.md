@@ -991,6 +991,7 @@
 - quafadas/cask-laminar
 - qwbarch/snowflake4s
 - raboof/sbt-reproducible-builds
+- rayrobdod/string-context-parser-combinator
 - rcmartins/blinky
 - reactific/riddl
 - reactific/sbt-reactific
