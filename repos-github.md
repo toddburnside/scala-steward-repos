@@ -766,6 +766,7 @@
 - monix/newtypes
 - monksy/serialization-checker
 - mox692/scala-cross-compile-multi-platform.g8
+- mox692/git-bench4s
 - mpollmeier/scala-repl-pp
 - msgpack/msgpack-java
 - mukhtar1227ali/Poker_2
