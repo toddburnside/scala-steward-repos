@@ -811,7 +811,6 @@
 - nevillelyh/parquet-extra
 - nevillelyh/protobuf-generic
 - nevillelyh/shapeless-datatype
-- nigeleke/cribbage:develop
 - nigeleke/flac4s:develop
 - nigeleke/life:develop
 - nigeleke/ohmic:develop
