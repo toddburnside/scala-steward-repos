@@ -510,8 +510,6 @@
 - guardrail-dev/guardrail-sample-sbt-akkahttp
 - guardrail-dev/guardrail-sample-sbt-http4s-zio
 - guardrail-dev/sbt-guardrail
-- guizmaii/safe-libphonenumber
-- guizmaii/scala-nimbus-jose-jwt
 - hablapps/doric
 - hagay3/skuber
 - hajlaoui-nader/books 
@@ -1497,7 +1495,6 @@
 - zio/zio-ftp
 - zio/zio-gcp
 - zio/zio-json
-- zio/zio-kafka
 - zio/zio-keeper
 - zio/zio-lambda
 - zio/zio-logging
