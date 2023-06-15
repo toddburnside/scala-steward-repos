@@ -562,6 +562,7 @@
 - japgolly/test-state
 - japgolly/univeq
 - jatcwang/scalafix-named-params
+- jchapuis/fs2-kafka-mock
 - jcouyang/dhall-generic
 - jcouyang/jujiu
 - jcouyang/zhuyu
