@@ -687,7 +687,6 @@
 - lightbend/paradox
 - lightbend/sbt-paradox-apidoc
 - lightbend/ssl-config
-- lihaoyi/scala.rx
 - limansky/beanpuree
 - liquibase4s/liquibase4s
 - liuhongchao/debug4s
