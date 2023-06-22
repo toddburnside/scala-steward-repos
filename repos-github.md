@@ -1399,6 +1399,7 @@
 - uptane/ota-tuf
 - uptane/treehub
 - user-signal/fs2-mqtt
+- valdemargr/gql
 - valencik/textmogrify
 - valentinHenry/blaireau
 - valskalla/odin
