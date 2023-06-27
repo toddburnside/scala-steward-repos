@@ -443,6 +443,7 @@
 - firstbirdtech/akka-persistence-query-view
 - firstbirdtech/akka-persistent-scheduler
 - firstbirdtech/backbone
+- flink-extended/flink-scala-api
 - flyway/flyway-play
 - foreign-language-reader/api
 - fp-in-bo/jms4s
