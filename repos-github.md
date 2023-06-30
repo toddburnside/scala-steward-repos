@@ -282,6 +282,7 @@
 - d10xa/jadd
 - d10xa/scala.g8
 - daandi/nice-url-encode-decode
+- daenyth/cats-effect-guava
 - DanielaSfregola/random-data-generator
 - DanielaSfregola/twitter4s
 - DanielaSfregola/twitter4s.g8
