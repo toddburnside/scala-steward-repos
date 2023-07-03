@@ -1521,3 +1521,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
+- otus-load/gatling-sampler
