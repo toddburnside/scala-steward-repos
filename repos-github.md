@@ -856,6 +856,7 @@
 - ornicar/lila-search
 - ornicar/lila-ws
 - ornicar/scalachess
+- otus-load/gatling-sampler
 - outwatch/outwatch
 - outwatch/seed.g8
 - oyvindberg/bleep
@@ -1521,4 +1522,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- otus-load/gatling-sampler
