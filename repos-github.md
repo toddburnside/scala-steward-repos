@@ -42,6 +42,7 @@
 - akka/akka-sample-cluster-kubernetes-scala
 - akka/alpakka-kafka
 - albuch/sbt-dependency-check
+- AleGlowa/zio-twitter
 - alekslitvinenk/doppler
 - alekslitvinenk/logshingles
 - alexandru/typelevel-library.g8
