@@ -330,6 +330,7 @@
 - doubleloop-io/applied-fp-workshop-scala
 - dream11/zio-http
 - dusan0098/Scalafix_FP_workshop
+- dvgica/healthful
 - dvgica/managerial
 - dwijnand/sbt-compat
 - dwijnand/sbt-dynver
