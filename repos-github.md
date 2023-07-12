@@ -245,6 +245,7 @@
 - com-lihaoyi/utest
 - concrete-cp/concrete
 - concrete-cp/cspom
+- Constellation-Labs/tessellation
 - cornerman/chameleon
 - cornerman/colibri
 - cornerman/mycelium
