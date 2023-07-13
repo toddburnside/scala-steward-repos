@@ -664,6 +664,7 @@
 - lefou/mill-jbake
 - lefou/mill-kotlin
 - lefou/mill-osgi
+- lefou/mill-spring-boot
 - lefou/mill-vaadin
 - lefou/mill-vcs-version
 - LEGO/woof
