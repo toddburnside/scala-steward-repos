@@ -503,6 +503,7 @@
 - GlasslabGames/html.scala
 - GlasslabGames/nameBasedXml.scala
 - gnieh/diffson
+- gnp/zio-quickstart-https
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
