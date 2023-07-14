@@ -503,6 +503,7 @@
 - GlasslabGames/html.scala
 - GlasslabGames/nameBasedXml.scala
 - gnieh/diffson
+- gnp/ident
 - gnp/zio-data-streams
 - gnp/zio-hello-world
 - goodcover/scala-relay
