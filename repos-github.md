@@ -177,10 +177,9 @@
 - butcherless/scala
 - butcherless/tapir-learn
 - caesarsdigital/trace4cats-zio-extras
-- carlosedp/chiselv
+- carlosedp/mill-aliases
 - carlosedp/mill-docker-nativeimage
 - carlosedp/riscvassembler
-- carlosedp/scalautils
 - carlos-verdes/zio-arangodb
 - carlos-verdes/zio-resource
 - carueda/tscfg
