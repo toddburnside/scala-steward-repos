@@ -504,6 +504,9 @@
 - GlasslabGames/nameBasedXml.scala
 - gnieh/diffson
 - gnp/zio-quickstart-https
+- gnp/ident
+- gnp/zio-data-streams
+- gnp/zio-hello-world
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
@@ -665,6 +668,7 @@
 - lefou/mill-jbake
 - lefou/mill-kotlin
 - lefou/mill-osgi
+- lefou/mill-spring-boot
 - lefou/mill-vaadin
 - lefou/mill-vcs-version
 - LEGO/woof
