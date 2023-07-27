@@ -704,6 +704,8 @@
 - lolgab/mill-mima
 - lomigmegard/akka-http-cors
 - lorandszakacs/enclosure
+- lowmelvin/formify-scala
+- lowmelvin/hammer-scala
 - LPTK/simple-sub
 - lqhuang/watcher
 - LREN-CHUV/woken
