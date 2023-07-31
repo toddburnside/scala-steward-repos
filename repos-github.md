@@ -218,6 +218,7 @@
 - circe/circe-spire
 - circe/circe-yaml
 - circe/sbt-circe-org
+- CJSmith-0141/absurd
 - CleverCloud/akka-warp10-scala-client
 - clovellytech/http4s-modules
 - codacy/codacy-analysis-cli
