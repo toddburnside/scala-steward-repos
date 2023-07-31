@@ -1000,6 +1000,8 @@
 - pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
 - quafadas/cask-laminar
+- quafadas/dedav4s
+- quafadas/scautable
 - qwbarch/snowflake4s
 - raboof/sbt-reproducible-builds
 - rayrobdod/string-context-parser-combinator
