@@ -1287,6 +1287,7 @@
 - tanishiking/semanticdb-for-scala3
 - tbje/full-stack
 - tbrown1979/totp4s
+- teamclairvoyant/restonomer
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
 - TeamWanari/web-push
@@ -1534,4 +1535,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- teamclairvoyant/restonomer
