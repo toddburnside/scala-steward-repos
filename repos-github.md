@@ -741,6 +741,7 @@
 - mbuzdalov/orthant-search
 - mbuzdalov/unbiased-bbc
 - mdedetrich/akka-streams-json
+- mdedetrich/pekko-streams-circe
 - medeia/medeia
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
