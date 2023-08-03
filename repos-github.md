@@ -995,6 +995,7 @@
 - prom3th3us/zio-actors-cassandra-journal
 - proteinevolution/Toolkit
 - pstutz/scala-fullstack
+- pstutz/syncodia
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
