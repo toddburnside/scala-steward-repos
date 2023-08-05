@@ -1531,4 +1531,4 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- teamclairvoyant/restonomer
+- teamclairvoyant/restonomer:staging
