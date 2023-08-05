@@ -218,6 +218,7 @@
 - circe/circe-spire
 - circe/circe-yaml
 - circe/sbt-circe-org
+- CJSmith-0141/absurd
 - CleverCloud/akka-warp10-scala-client
 - clovellytech/http4s-modules
 - codacy/codacy-analysis-cli
@@ -740,6 +741,7 @@
 - mbuzdalov/orthant-search
 - mbuzdalov/unbiased-bbc
 - mdedetrich/akka-streams-json
+- mdedetrich/pekko-streams-circe
 - medeia/medeia
 - metabookmarks/lagom-silhouette
 - metabookmarks/sbt-plantuml-plugin
@@ -994,11 +996,14 @@
 - prom3th3us/zio-actors-cassandra-journal
 - proteinevolution/Toolkit
 - pstutz/scala-fullstack
+- pstutz/syncodia
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
 - qbicsoftware/scark-cli
 - quafadas/cask-laminar
+- quafadas/dedav4s
+- quafadas/scautable
 - qwbarch/snowflake4s
 - raboof/sbt-reproducible-builds
 - rayrobdod/string-context-parser-combinator
@@ -1284,6 +1289,7 @@
 - tanishiking/semanticdb-for-scala3
 - tbje/full-stack
 - tbrown1979/totp4s
+- teamclairvoyant/restonomer:staging
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
 - TeamWanari/web-push
@@ -1531,4 +1537,3 @@
 - zouzias/spark-lucenerdd
 - zzvara/spark-disqus
 - zzvara/spark-youtube
-- teamclairvoyant/restonomer:staging
