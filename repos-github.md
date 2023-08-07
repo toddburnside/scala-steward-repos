@@ -1290,7 +1290,7 @@
 - tanishiking/semanticdb-for-scala3
 - tbje/full-stack
 - tbrown1979/totp4s
-- teamclairvoyant/restonomer
+- teamclairvoyant/restonomer:staging
 - TeamWanari/sbt-paradox-diagrams
 - TeamWanari/tutelar
 - TeamWanari/web-push
