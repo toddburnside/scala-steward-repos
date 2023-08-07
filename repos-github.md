@@ -705,6 +705,7 @@
 - lolgab/mill-mima
 - lomigmegard/akka-http-cors
 - lorandszakacs/enclosure
+- lowmelvin/cats-starter.g8
 - lowmelvin/formify-scala
 - lowmelvin/hammer-scala
 - LPTK/simple-sub
