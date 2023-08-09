@@ -1008,6 +1008,7 @@
 - qwbarch/snowflake4s
 - raboof/sbt-reproducible-builds
 - rayrobdod/string-context-parser-combinator
+- raw-labs/snapi
 - rcmartins/blinky
 - reactific/riddl
 - reactific/sbt-reactific
