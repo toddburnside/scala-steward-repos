@@ -648,7 +648,6 @@
 - lambdaworks/scurl-detector
 - lambdaworks/zio-elasticsearch
 - lancewalton/treelog
-- lapsusHQ/templary
 - laserdisc-io/eisner
 - laserdisc-io/fs2-aws
 - laserdisc-io/laserdisc
@@ -1056,6 +1055,7 @@
 - samueltardieu/canape
 - samueltardieu/octopush-akka
 - samueltardieu/rxtelegram
+- samgj18/dolphin
 - sangria-graphql/macro-visit
 - sangria-graphql/sangria
 - sangria-graphql/sangria-akka-http
