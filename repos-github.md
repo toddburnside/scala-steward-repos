@@ -1052,6 +1052,7 @@
 - sagifogel/Proptics
 - sake92/hepek
 - salesforce/transmogrifai-helloworld-sbt
+- samueleresca/pekko-quartz-scheduler
 - samueltardieu/ausweisbot
 - samueltardieu/canape
 - samueltardieu/octopush-akka
