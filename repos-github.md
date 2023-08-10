@@ -1051,11 +1051,11 @@
 - sagifogel/Proptics
 - sake92/hepek
 - salesforce/transmogrifai-helloworld-sbt
+- samgj18/dolphin
 - samueltardieu/ausweisbot
 - samueltardieu/canape
 - samueltardieu/octopush-akka
 - samueltardieu/rxtelegram
-- samgj18/dolphin
 - sangria-graphql/macro-visit
 - sangria-graphql/sangria
 - sangria-graphql/sangria-akka-http
