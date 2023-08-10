@@ -1052,6 +1052,7 @@
 - sake92/hepek
 - salesforce/transmogrifai-helloworld-sbt
 - samgj18/dolphin
+- samueleresca/pekko-quartz-scheduler
 - samueltardieu/ausweisbot
 - samueltardieu/canape
 - samueltardieu/octopush-akka
