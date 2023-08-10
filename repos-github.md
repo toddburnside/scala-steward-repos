@@ -648,7 +648,6 @@
 - lambdaworks/scurl-detector
 - lambdaworks/zio-elasticsearch
 - lancewalton/treelog
-- lapsusHQ/templary
 - laserdisc-io/eisner
 - laserdisc-io/fs2-aws
 - laserdisc-io/laserdisc
@@ -1052,6 +1051,7 @@
 - sagifogel/Proptics
 - sake92/hepek
 - salesforce/transmogrifai-helloworld-sbt
+- samgj18/dolphin
 - samueleresca/pekko-quartz-scheduler
 - samueltardieu/ausweisbot
 - samueltardieu/canape
