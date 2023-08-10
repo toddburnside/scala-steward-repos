@@ -438,7 +438,6 @@
 - felipebonezi/convert-unit-service
 - finagle/finagle-mysql-shapes
 - finagle/finagle-oauth2
-- finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
 - findify/flink-adt
