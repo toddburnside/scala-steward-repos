@@ -299,6 +299,7 @@
 - davegurnell/bridges
 - davegurnell/unindent
 - DavidGregory084/mill-tpolecat
+- deal-engine/finagle-postgres
 - deanwampler/programming-scala-book-code-examples
 - debasishg/effRedis
 - debasishg/frdomain-extras
