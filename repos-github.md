@@ -299,6 +299,7 @@
 - davegurnell/bridges
 - davegurnell/unindent
 - DavidGregory084/mill-tpolecat
+- deal-engine/finagle-postgres
 - deanwampler/programming-scala-book-code-examples
 - debasishg/effRedis
 - debasishg/frdomain-extras
@@ -437,7 +438,6 @@
 - felipebonezi/convert-unit-service
 - finagle/finagle-mysql-shapes
 - finagle/finagle-oauth2
-- finagle/finagle-postgres
 - finagle/finch
 - finch/finch-oauth2
 - findify/flink-adt
