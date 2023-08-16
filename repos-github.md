@@ -1042,10 +1042,9 @@
 - ruippeixotog/akka-testkit-specs2
 - ruippeixotog/scala-scraper
 - RustedBones/akka-http-avro
-- RustedBones/akka-http-metrics
 - RustedBones/akka-http-scalapb
 - RustedBones/akka-http-thrift
-- RustedBones/sc4s
+- RustedBones/pekko-http-metrics
 - RustedBones/scout
 - RustedBones/taxonomy
 - sagifogel/Proptics
