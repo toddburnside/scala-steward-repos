@@ -1353,7 +1353,6 @@
 - tomwadeson/scala-barebones
 - topl/bifrost:dev
 - topl/BramblSc:main
-- topl/quivr4s:main
 - ToToTec/CmdOption
 - tototoshi/slick-joda-mapper
 - to-ithaca/libra
