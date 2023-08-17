@@ -558,6 +558,9 @@
 - IronCoreLabs/recrypt
 - ITV/quartz4s
 - jacum/akka-sensors
+- jamesward/easyracer
+- jamesward/javadoccentral
+- jamesward/zio-mavencentral
 - janstenpickle/graal-kafka-client
 - janstenpickle/hotswap-ref
 - japgolly/clear-config
