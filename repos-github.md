@@ -1006,7 +1006,6 @@
 - quafadas/scautable
 - qwbarch/snowflake4s
 - raboof/sbt-reproducible-builds
-- raw-labs/snapi
 - rayrobdod/string-context-parser-combinator
 - rcmartins/blinky
 - reactific/riddl
