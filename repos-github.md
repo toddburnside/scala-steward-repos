@@ -538,7 +538,6 @@
 - huiwang/codingame-scala-kit
 - Idealiste-cz/ideal-voting-backend
 - iheartradio/ficus
-- iheartradio/play-swagger
 - iheartradio/thomas
 - ikhoon/scalapb-reactor
 - ilya-murzinov/finch-todo-backend
@@ -961,6 +960,7 @@
 - plokhotnyuk/fast-string-interpolator
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
+- play-swagger/play-swagger
 - polyvariant/better-tostring
 - polyvariant/caliban-gitlab
 - polyvariant/colorize-scala
