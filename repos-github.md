@@ -956,11 +956,11 @@
 - playframework/play-ws
 - playframework/scalatestplus-play
 - playframework/twirl
+- play-swagger/play-swagger
 - plokhotnyuk/expression-evaluator
 - plokhotnyuk/fast-string-interpolator
 - plokhotnyuk/jsoniter-scala
 - plokhotnyuk/rtree2d
-- play-swagger/play-swagger
 - polyvariant/better-tostring
 - polyvariant/caliban-gitlab
 - polyvariant/colorize-scala
