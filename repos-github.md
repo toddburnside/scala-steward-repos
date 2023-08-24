@@ -509,6 +509,7 @@
 - goodcover/scala-relay
 - gospeak-io/gospeak
 - griggt/scalamyth
+- grouzen/zio-apache-arrow
 - guardrail-dev/guardrail
 - guardrail-dev/guardrail-maven-plugin
 - guardrail-dev/guardrail-sample-gradle-http4s-zio
