@@ -136,6 +136,7 @@
 - BenFradet/spark-kafka-writer
 - BenFradet/struct-type-encoder
 - benhutchison/modesofcomposition
+- benkio/sBots
 - benthecarman/OP-RETURN-Bot
 - benthecarman/scalastr
 - benthecarman/translnd
