@@ -1126,6 +1126,7 @@
 - ScalaConsultants/zio-dotty-quickstart.g8
 - ScalaConsultants/zio-quickstart.g8
 - ScalaConsultants/zio-slick-interop
+- scalalandio/chimney
 - scalapb/common-protos
 - scalapb/protobuf-scala-runtime
 - scalapb/protoc-bridge
