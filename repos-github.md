@@ -1445,6 +1445,7 @@
 - VirtusLab/avocADO
 - VirtusLab/coursier-m1
 - VirtusLab/ide-probe
+- VirtusLab/pekko-serialization-helper
 - VirtusLab/scalafmt-native-image
 - VirtusLab/scala-cli
 - VirtusLab/scala-cli-signing
