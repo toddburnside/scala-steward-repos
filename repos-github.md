@@ -815,6 +815,7 @@
 - naoh87/lettucef
 - navidjalali/firebaseauth
 - NCATS-Tangerine/cam-kp-api
+- nebula-contrib/zio-nebula
 - nemoo/play-slick3-example
 - nemoo/play-slick-synchronous-example
 - neotypes/neotypes
