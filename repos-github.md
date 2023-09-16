@@ -146,6 +146,7 @@
 - Billzabob/dissonance
 - Billzabob/ForDeckmacia
 - bitcoin-s/bitcoin-s
+- bitlap/intellij-sbt-dependency-analyzer
 - bitlap/rolls
 - bitlap/zim
 - bitmarck-service/base32check-java
