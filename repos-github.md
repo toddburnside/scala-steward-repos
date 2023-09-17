@@ -479,7 +479,6 @@
 - fun-stack/sdk-scala
 - fwbrasil/kyo
 - geneontology/gaferencer
-- getquill/quill
 - gfc-collective/gfc-aws-cloudwatch
 - gfc-collective/gfc-aws-kinesis
 - gfc-collective/gfc-aws-s3
@@ -1536,7 +1535,6 @@
 - zio/zio-process
 - zio/zio-profiling
 - zio/zio-project-seed.g8
-- zio/zio-protoquill
 - zio/zio-redis
 - zio/zio-s3
 - zio/zio-sql
