@@ -16,7 +16,6 @@
 - 7mind/izumi
 - 7mind/sbtgen
 - 9rb/rchain
-- 100km/stk
 - aaronp/franz
 - abdolence/slack-morphism
 - adzerk/apso
