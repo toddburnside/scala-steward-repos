@@ -523,8 +523,8 @@
 - hagay3/skuber
 - hajlaoui-nader/books 
 - hayasshi/akka-http-router
-- henricook/flakefinder
 - henricook/cryptoutils
+- henricook/flakefinder
 - hipjim/scala-retry
 - hireproof/screening
 - hnaderi/edomata
