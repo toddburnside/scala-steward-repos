@@ -524,6 +524,7 @@
 - hajlaoui-nader/books 
 - hayasshi/akka-http-router
 - henricook/flakefinder
+- henricook/cryptoutils
 - hipjim/scala-retry
 - hireproof/screening
 - hnaderi/edomata
