@@ -173,6 +173,7 @@
 - buildo/retro
 - build-server-protocol/build-server-protocol
 - buntec/ff4s
+- buntec/scala-js-snabbdom
 - Bunyod/PracticalFPinScala
 - butcherless/incubator
 - butcherless/scala
