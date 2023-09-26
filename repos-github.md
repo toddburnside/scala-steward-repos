@@ -838,6 +838,7 @@
 - niqdev/kafka-scala-examples
 - niqdev/scala-fp
 - nivanov/cosplay
+- nixiesearch/nixiesearch
 - nMoncho/helenus
 - NomadBlacky/digdag-plugin-datadog
 - NomadBlacky/scaladog
