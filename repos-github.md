@@ -314,6 +314,7 @@
 - DFiantHDL/DFiant
 - diamantidis/scala-screenshots
 - dieproht/matr
+- dieproht/molly
 - dimitarg/bb-webhook
 - dimitarg/weaver-test-extra
 - disneystreaming/alloy
