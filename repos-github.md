@@ -113,7 +113,6 @@
 - avdv/scalals
 - AVSystem/scala-commons
 - azavea/franklin
-- azavea/stac4s
 - azhur/kafka-serde-scala
 - Baeldung/scala-tutorials
 - balhoff/arachne
@@ -1258,6 +1257,7 @@
 - spotify/tfreader
 - srenault/sre-api
 - sritchie/scala-rl
+- stac-utils/stac4s
 - starlake-ai/starlake
 - streetcontxt/kcl-akka-stream
 - stripe/dagon
