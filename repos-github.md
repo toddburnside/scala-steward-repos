@@ -649,6 +649,7 @@
 - kubukoz/spotify-next
 - kwark/play-refined
 - kwark/slick-refined
+- lachezar/zio-scala-3-project.g8
 - lambdaworks/scountries
 - lambdaworks/scurl-detector
 - lambdaworks/zio-elasticsearch
