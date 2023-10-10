@@ -916,6 +916,7 @@
 - Philippus/sbt-license-check
 - Philippus/scala-for-all
 - Philippus/scala-isbn
+- Philippus/zio-pekko-cluster
 - picnicml/doddle-model
 - pitgull/pitgull
 - pityka/flatjoin
