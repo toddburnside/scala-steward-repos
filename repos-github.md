@@ -87,6 +87,7 @@
 - apache/daffodil
 - apache/incubator-nlpcraft
 - apimorphism/telegramium
+- arainko/ducktape
 - asachdeva/cats-sandbox
 - asachdeva/fpinsscala
 - asachdeva/zio_launch
