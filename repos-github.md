@@ -337,6 +337,7 @@
 - dusan0098/Scalafix_FP_workshop
 - dvgica/healthful
 - dvgica/managerial
+- dvgica/periodic
 - dwijnand/sbt-compat
 - dwijnand/sbt-dynver
 - dwijnand/sbt-project-graph
