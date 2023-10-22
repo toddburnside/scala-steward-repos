@@ -937,7 +937,6 @@
 - playframework/.github
 - playframework/anorm
 - playframework/cachecontrol
-- playframework/interplay
 - playframework/omnidoc
 - playframework/playframework
 - playframework/playframework.com
