@@ -941,8 +941,8 @@
 - playframework/omnidoc
 - playframework/omnidoc:2.9.x
 - playframework/playframework
-- playframework/playframework:2.9.x
 - playframework/playframework.com
+- playframework/playframework:2.9.x
 - playframework/play-doc
 - playframework/play-doc:2.2.x
 - playframework/play-ebean
