@@ -1295,8 +1295,8 @@
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
 - swagger-akka-http/swagger-enumeratum-module
-- swagger-akka-http/swagger-scala-module
 - swagger-akka-http/swagger-pekko-http
+- swagger-akka-http/swagger-scala-module
 - sweet-delights/delightful-anonymization
 - sweet-delights/delightful-cron
 - sweet-delights/delightful-edifact
