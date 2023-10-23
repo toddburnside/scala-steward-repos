@@ -115,7 +115,6 @@
 - AVSystem/scala-commons
 - azavea/franklin
 - azhur/kafka-serde-scala
-- Baeldung/scala-tutorials
 - balhoff/arachne
 - balhoff/archimedes
 - balhoff/blazegraph-runner
