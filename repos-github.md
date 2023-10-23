@@ -933,6 +933,8 @@
 - pityka/utils-interval
 - pityka/utils-string
 - pjan/akka-d3
+- pjfanning/micrometer-pekko
+- pjfanning/pekko-http-json
 - playalot/ReactiveMongo-Extensions
 - playframework/.github
 - playframework/anorm
@@ -1292,8 +1294,9 @@
 - svroonland/scodec-ais
 - svroonland/zio-amqp
 - svroonland/zio-kinesis
-- swagger-akka-http/swagger-akka-http
+- swagger-akka-http/swagger-enumeratum-module
 - swagger-akka-http/swagger-scala-module
+- swagger-akka-http/swagger-pekko-http
 - sweet-delights/delightful-anonymization
 - sweet-delights/delightful-cron
 - sweet-delights/delightful-edifact
