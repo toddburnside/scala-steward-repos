@@ -691,6 +691,7 @@
 - lewisjkl/kafkakit
 - liancheng/scalafix-organize-imports
 - librecaptcha/lc-core
+- lightbend-labs/cloc-plugin
 - lightbend-labs/lightbend-emoji
 - lightbend-labs/scala-logging
 - lightbend-labs/scala-sculpt
@@ -1217,7 +1218,6 @@
 - sentenza/cats-http4s-crypto
 - sentenza/hacktoberfest-scala-algorithms
 - sentenza/PureCSV
-- SethTisue/cloc-plugin
 - SethTisue/Project-Euler
 - shadaj/scalapy
 - shadaj/slinky
