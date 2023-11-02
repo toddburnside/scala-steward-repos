@@ -1070,9 +1070,9 @@
 - ruippeixotog/akka-testkit-specs2
 - ruippeixotog/scala-scraper
 - RustedBones/pekko-http-avro
+- RustedBones/pekko-http-metrics
 - RustedBones/pekko-http-scalapb
 - RustedBones/pekko-http-thrift
-- RustedBones/pekko-http-metrics
 - RustedBones/scout
 - RustedBones/taxonomy
 - sagifogel/Proptics
