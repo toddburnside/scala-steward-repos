@@ -1069,9 +1069,9 @@
 - rtimush/zio-magic-comments
 - ruippeixotog/akka-testkit-specs2
 - ruippeixotog/scala-scraper
-- RustedBones/akka-http-avro
-- RustedBones/akka-http-scalapb
-- RustedBones/akka-http-thrift
+- RustedBones/pekko-http-avro
+- RustedBones/pekko-http-scalapb
+- RustedBones/pekko-http-thrift
 - RustedBones/pekko-http-metrics
 - RustedBones/scout
 - RustedBones/taxonomy
