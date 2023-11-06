@@ -380,9 +380,6 @@
 - etorres/lambda4s-demo
 - etorres/markdown-transformation-kata-scala
 - etorres/train-station
-- etspaceman/kinesis4cats
-- etspaceman/kinesis-mock
-- etspaceman/scalacheck-faker
 - EventStore/EventStore.Akka.Persistence
 - EventStore/EventStore.JVM
 - evolution-gaming/akka-effect
