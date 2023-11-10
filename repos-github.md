@@ -690,6 +690,7 @@
 - librecaptcha/lc-core
 - lightbend-labs/cloc-plugin
 - lightbend-labs/lightbend-emoji
+- lightbend-labs/scala-fortify-sample
 - lightbend-labs/scala-logging
 - lightbend-labs/scala-sculpt
 - lightbend/benchdb
