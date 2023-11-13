@@ -145,8 +145,8 @@
 - bitcoin-s/bitcoin-s
 - bitlap/intellij-sbt-dependency-analyzer
 - bitlap/rolls
-- bitlap/zim
 - bitlap/validation-scala
+- bitlap/zim
 - bitmarck-service/base32check-java
 - bitmarck-service/base32check-scala
 - bitrockteam/kafka-dvs-api
