@@ -146,6 +146,7 @@
 - bitlap/intellij-sbt-dependency-analyzer
 - bitlap/rolls
 - bitlap/zim
+- bitlap/validation-scala
 - bitmarck-service/base32check-java
 - bitmarck-service/base32check-scala
 - bitrockteam/kafka-dvs-api
