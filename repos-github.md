@@ -538,7 +538,6 @@
 - huiwang/codingame-scala-kit
 - Idealiste-cz/ideal-voting-backend
 - iheartradio/ficus
-- iheartradio/thomas
 - ikhoon/scalapb-reactor
 - ilya-murzinov/finch-todo-backend
 - implmnt/mercator-cats
