@@ -332,9 +332,9 @@
 - domino-osgi/domino-java
 - doriordan/skuber
 - doubleloop-io/applied-fp-workshop-scala
-- dragonfly-ai/slash
-- dragonfly-ai/narr
 - dragonfly-ai/mesh
+- dragonfly-ai/narr
+- dragonfly-ai/slash
 - dream11/zio-http
 - dusan0098/Scalafix_FP_workshop
 - dvgica/healthful
