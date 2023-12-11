@@ -581,6 +581,7 @@
 - jczuchnowski/zio-pulsar
 - jd557/interim
 - jd557/minart
+- jd557/spaeti
 - jirkavrba/vse-verification-bot
 - jkobejs/endpoints-uzhttp
 - jkobejs/zio-google-cloud-oauth2
