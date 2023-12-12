@@ -1223,6 +1223,7 @@
 - sentenza/hacktoberfest-scala-algorithms
 - sentenza/PureCSV
 - SethTisue/Project-Euler
+- SethTisue/adventofcode
 - shadaj/scalapy
 - shadaj/slinky
 - shankarshastri/ScalaFPCode
