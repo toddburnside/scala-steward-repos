@@ -1226,8 +1226,8 @@
 - sentenza/cats-http4s-crypto
 - sentenza/hacktoberfest-scala-algorithms
 - sentenza/PureCSV
-- SethTisue/Project-Euler
 - SethTisue/adventofcode
+- SethTisue/Project-Euler
 - shadaj/scalapy
 - shadaj/slinky
 - shankarshastri/ScalaFPCode
