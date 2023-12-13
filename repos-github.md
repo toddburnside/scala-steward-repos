@@ -530,6 +530,10 @@
 - hireproof/screening
 - hnaderi/edomata
 - hntd187/spotify
+- hoangmaihuy/mill-missinglink
+- hoangmaihuy/mill-caliban
+- hoangmaihuy/mill-scala-tsi
+- hoangmaihuy/mill-universal-packager
 - holdenk/sparkProjectTemplate.g8
 - holdenk/spark-testing-base
 - holdenk/spark-upgrade
