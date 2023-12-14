@@ -511,6 +511,7 @@
 - gospeak-io/gospeak
 - griggt/scalamyth
 - grouzen/zio-apache-arrow
+- grouzen/zio-apache-parquet
 - guardrail-dev/guardrail
 - guardrail-dev/guardrail-maven-plugin
 - guardrail-dev/guardrail-sample-gradle-http4s-zio
