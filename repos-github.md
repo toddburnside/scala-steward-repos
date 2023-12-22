@@ -67,6 +67,7 @@
 - alonsodomin/purerand
 - alonsodomin/sbt-spark
 - alonsodomin/scala-colog
+- AmadeusITGroup/sbt-release-notes
 - andreamarcolin/oidc4s
 - andreum/process-resource
 - andrewrigas/oath
