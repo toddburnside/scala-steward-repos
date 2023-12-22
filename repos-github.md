@@ -961,6 +961,7 @@
 - playframework/play-file-watch:1.2.x
 - playframework/play-generated-docs
 - playframework/play-grpc
+- playframework/play-grpc:0.11.x
 - playframework/play-java-angular-seed
 - playframework/play-java-react-seed
 - playframework/play-java-seed.g8
