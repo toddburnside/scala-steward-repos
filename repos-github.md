@@ -613,6 +613,7 @@
 - kailuowang/mau
 - kailuowang/sbt-catalysts
 - kaizen-solutions/virgil
+- karadzhov/scala-iso-country
 - Karasiq/sbt-scalajs-bundler
 - Karasiq/scalajs-bootstrap
 - Karasiq/scalajs-videojs
