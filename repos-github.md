@@ -1323,6 +1323,7 @@
 - taig/sbt-blowout
 - taig/sbt-houserules
 - tailcallhq/zio-compose
+- takapi327/ldbc
 - takayahilton/sql-formatter
 - tanishiking/scalafix-unused
 - tanishiking/semanticdb-for-scala3
