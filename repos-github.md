@@ -614,6 +614,7 @@
 - kailuowang/sbt-catalysts
 - kaizen-solutions/virgil
 - karadzhov/scala-iso-country
+- karadzhov/scala-iso-language
 - Karasiq/sbt-scalajs-bundler
 - Karasiq/scalajs-bootstrap
 - Karasiq/scalajs-videojs
