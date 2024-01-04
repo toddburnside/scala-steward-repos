@@ -1138,6 +1138,7 @@
 - sbt/sbt-js-engine
 - sbt/sbt-less
 - sbt/sbt-mocha
+- sbt/sbt-osgi
 - sbt/sbt-rjs
 - sbt/sbt-stylus
 - sbt/sbt-uglify
