@@ -1138,6 +1138,7 @@
 - sbt/sbt-jshint
 - sbt/sbt-js-engine
 - sbt/sbt-less
+- sbt/sbt-license-report
 - sbt/sbt-mocha
 - sbt/sbt-osgi
 - sbt/sbt-rjs
