@@ -979,6 +979,7 @@
 - playframework/play-scala-seed.g8
 - playframework/play-scala-seed.g8:2.9.x
 - playframework/play-silhouette
+- playframework/play-silhouette:9.x
 - playframework/play-slick
 - playframework/play-slick:5.2.x
 - playframework/play-soap
