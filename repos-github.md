@@ -1138,6 +1138,7 @@
 - sbt/sbt-less
 - sbt/sbt-license-report
 - sbt/sbt-mocha
+- sbt/sbt-maven-plugin
 - sbt/sbt-osgi
 - sbt/sbt-rjs
 - sbt/sbt-stylus
