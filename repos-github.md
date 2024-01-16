@@ -778,6 +778,12 @@
 - miguel-vila/steve
 - milessabin/shapeless
 - mitochon/polyjuice
+- mkurz/deadbolt-2-java
+- mkurz/deadbolt-2-java-examples
+- mkurz/deadbolt-2-scala
+- mkurz/deadbolt-2-scala-examples
+- mkurz/deadbolt-auth0-scala
+- mkurz/play-silhouette-deadbolt-seed
 - mobimeo/fs2-gtfs
 - mockito/mockito-scala
 - molarmanful/sclin
