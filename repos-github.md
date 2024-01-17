@@ -1146,6 +1146,7 @@
 - sbt/sbt-license-report
 - sbt/sbt-maven-plugin
 - sbt/sbt-mocha
+- sbt/sbt-multi-jvm
 - sbt/sbt-osgi
 - sbt/sbt-rjs
 - sbt/sbt-stylus
