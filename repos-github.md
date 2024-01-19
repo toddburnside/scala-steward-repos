@@ -779,11 +779,11 @@
 - milessabin/shapeless
 - mitochon/polyjuice
 - mkurz/deadbolt-2-java
-- mkurz/deadbolt-2-java:2.9.x
 - mkurz/deadbolt-2-java-examples
+- mkurz/deadbolt-2-java:2.9.x
 - mkurz/deadbolt-2-scala
-- mkurz/deadbolt-2-scala:2.9.x
 - mkurz/deadbolt-2-scala-examples
+- mkurz/deadbolt-2-scala:2.9.x
 - mkurz/deadbolt-auth0-scala
 - mkurz/play-silhouette-deadbolt-seed
 - mobimeo/fs2-gtfs
