@@ -1080,6 +1080,7 @@
 - rewards-network/pure-aws
 - ringcentral/cassandra4io
 - rintcius/scala-steward-ping
+- rlemaitre/pillars
 - routis/dmmf-scala
 - rpiaggio/meal
 - rtimush/sbt-rewarn
