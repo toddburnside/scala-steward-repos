@@ -739,6 +739,7 @@
 - majk-p/identicon4s
 - makiftutuncu/e
 - manocha-aman/wind-alerts
+- marcfrederick/htwg-reactive-systems
 - MarcinAman/test-repo
 - MartinHH/scalacheck-derived
 - martinpallmann/gchat
