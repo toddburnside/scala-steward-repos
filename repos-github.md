@@ -168,7 +168,6 @@
 - brbrown25/testcontainers-scala-kafka-utils
 - broadinstitute/cromwell 
 - broadinstitute/poolq
-- broadinstitute/workbench-libs
 - brsyuksel/xurl
 - buildo/retro
 - build-server-protocol/build-server-protocol
