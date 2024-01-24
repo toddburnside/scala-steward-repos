@@ -1002,9 +1002,6 @@
 - proteinevolution/Toolkit
 - pstutz/scala-fullstack
 - pstutz/syncodia
-- ptrdom/scalajs-electron-quick-start
-- ptrdom/scalajs-esbuild
-- ptrdom/scalajs-vite
 - pureconfig/pureconfig
 - pwliwanow/fdb-pubsub
 - pwliwanow/foundationdb4s
