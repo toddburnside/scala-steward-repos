@@ -1565,6 +1565,7 @@
 - zio/izumi-reflect
 - zio/zio-actors
 - zio/zio-akka-cluster
+- zio/zio-bson
 - zio/zio-config
 - zio/zio-crypto
 - zio/zio-dynamodb
