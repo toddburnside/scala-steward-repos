@@ -543,7 +543,7 @@
 - hseeberger/akka-http-json
 - hseeberger/akkluster
 - hseeberger/slf4s
-- hugovrijswijk/tgtg
+- hugo-vrijswijk/tgtg
 - huiwang/codingame-scala-kit
 - Idealiste-cz/ideal-voting-backend
 - iheartradio/ficus
