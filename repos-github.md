@@ -1098,7 +1098,6 @@
 - sagifogel/Proptics
 - sake92/hepek
 - salesforce/transmogrifai-helloworld-sbt
-- samgj18/dolphin
 - samueleresca/pekko-quartz-scheduler
 - sangria-graphql/macro-visit
 - sangria-graphql/sangria
