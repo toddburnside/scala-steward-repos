@@ -39,6 +39,7 @@
 - akka/akka-sample-cluster-docker-compose-scala
 - akka/akka-sample-cluster-kubernetes-dns-java
 - akka/akka-sample-cluster-kubernetes-scala
+- akka/alpakka
 - akka/alpakka-kafka
 - albuch/sbt-dependency-check
 - AleGlowa/zio-twitter
@@ -599,6 +600,7 @@
 - joan38/mill-scalafix
 - joernio/joern
 - joesan/plant-simulator
+- johanandren/sbt-akka-version-check
 - johannes-ebbighausen/oker
 - johnspade/csv3s
 - johnynek/bosatsu
