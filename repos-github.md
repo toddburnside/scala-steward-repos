@@ -472,6 +472,7 @@
 - fthomas/refined
 - fthomas/singleton-ops
 - fthomas/status-page
+- ft-scalac/zio-dynamodb-scala3-quickstart.g8
 - fullfacing/akkaMonixSttpBackend
 - fullfacing/keycloak4s
 - fun-stack/example
