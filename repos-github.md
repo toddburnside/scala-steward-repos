@@ -1148,6 +1148,7 @@
 - sbt/sbt-maven-plugin
 - sbt/sbt-mocha
 - sbt/sbt-multi-jvm
+- sbt/sbt-native-packager
 - sbt/sbt-osgi
 - sbt/sbt-rjs
 - sbt/sbt-stylus
