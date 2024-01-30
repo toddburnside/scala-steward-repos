@@ -1129,6 +1129,7 @@
 - sbt-dao-generator/sbt-dao-generator
 - sbt/sbt-autoversion
 - sbt/sbt-avro
+- sbt/sbt-boilerplate
 - sbt/sbt-coffeescript
 - sbt/sbt-concat
 - sbt/sbt-digest
@@ -1149,6 +1150,7 @@
 - sbt/sbt-mocha
 - sbt/sbt-multi-jvm
 - sbt/sbt-osgi
+- sbt/sbt-pull-request-validator
 - sbt/sbt-rjs
 - sbt/sbt-stylus
 - sbt/sbt-uglify
