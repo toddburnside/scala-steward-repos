@@ -1153,6 +1153,7 @@
 - sbt/sbt-multi-jvm
 - sbt/sbt-native-packager
 - sbt/sbt-osgi
+- sbt/sbt-paradox-material-theme
 - sbt/sbt-pull-request-validator
 - sbt/sbt-rjs
 - sbt/sbt-stylus
