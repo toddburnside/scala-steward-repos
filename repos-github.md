@@ -1530,6 +1530,7 @@
 - weso/srdf
 - weso/utils
 - windymelt/ak4-lambda
+- windymelt/cdp-scala
 - windymelt/zmm
 - wireapp/wire-signals
 - wiringbits/cazadescuentos
