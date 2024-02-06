@@ -1538,6 +1538,7 @@
 - wiringbits/sjs-material-ui-facade
 - wiringbits/wiringbits-webapp-utils
 - wjglerum/bamboesmanager
+- xdev-developer/gen4s
 - xencura/kagera
 - yadavan88/blog-code-samples
 - yadavan88/cats-effect-intro
