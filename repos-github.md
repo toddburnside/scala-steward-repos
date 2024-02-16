@@ -633,6 +633,7 @@
 - kelnos/scala-cross-maven-plugin
 - kelnos/tut-maven-plugin
 - kemitix/thorp
+- keuhdall/otel4s-grafana-example
 - Khalian/Modulo12
 - kiambogo/fs2-jms
 - kiendang/python-native-libs
