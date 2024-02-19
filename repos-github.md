@@ -523,7 +523,7 @@
 - guardrail-dev/guardrail-sample-sbt-akkahttp
 - guardrail-dev/guardrail-sample-sbt-http4s-zio
 - guardrail-dev/sbt-guardrail
-- gurmdrop/quizleague
+- gumdrop/quizleague
 - hablapps/doric
 - hagay3/skuber
 - hajlaoui-nader/books 
