@@ -1241,6 +1241,7 @@
 - scoverage/scalac-scoverage-plugin
 - scredis/scredis
 - scullxbones/akka-persistence-mongo
+- scullxbones/pekko-persistence-mongo
 - seblm/sbt-jgiven-scalatest-reporter
 - seblm/seblm-meals
 - sebver/scala-steward-demo
