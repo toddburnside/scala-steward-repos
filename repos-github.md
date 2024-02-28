@@ -969,6 +969,7 @@
 - playframework/playframework.com
 - playframework/playframework:2.8.x
 - playframework/playframework:2.9.x
+- playframework/playframework:3.0.x
 - playframework/play-doc
 - playframework/play-doc:2.2.x
 - playframework/play-ebean
