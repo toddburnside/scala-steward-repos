@@ -612,6 +612,8 @@
 - justinhj/fp-starter-pack.g8
 - jwojnowski/fs2-aes
 - jwojnowski/oidc4s
+- jwojnowski/scuid
+- jwojnowski/humanoid
 - jwt-scala/jwt-scala
 - jxnu-liguobin/scala-macro-tools
 - kailuowang/henkan
