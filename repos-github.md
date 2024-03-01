@@ -370,6 +370,7 @@
 - embeddedkafka/embedded-kafka-schema-registry
 - emergentorder/onnx-scala
 - endless4s/endless
+- endless4s/endless-transaction
 - endpoints4s/endpoints4s
 - enlivensystems/invoicing-hungarian
 - enriquerodbe/borsh4s
