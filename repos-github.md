@@ -1409,8 +1409,6 @@
 - tkrs/orcus
 - tminglei/slick-pg
 - TobiasRoland/scala-xml-encoder
-- toddburnside/scalajs-react-table
-- toddburnside/scalajs-react-virtuoso
 - tomwadeson/scala-barebones
 - topl/bifrost:dev
 - topl/BramblSc:main
